@@ -18,6 +18,7 @@
 - [Uncle bob's lessons](https://www.youtube.com/watch?v=7EmboKQH8lM&t=15s&ab_channel=UnityCoin) (6 videos about clean code, tests, ethics... )
 - [Primer](https://www.youtube.com/channel/UCKzJFdi57J53Vr_BkTfN3uQ) (awesome simulation to explain concepts done in python)
 - [Information is Beautiful](https://informationisbeautiful.net/) (nice data visualisation website)
+- [Computer science's map](https://www.flickr.com/photos/95869671@N08/36231833334) (the different chapters of computer science)
 
 ## Arficial Intelligence :
 
@@ -30,6 +31,7 @@
 
 - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) (really good channel about mathematics and also some videos about AI, his animation are really cool)
 - [Numberphile](https://www.youtube.com/user/numberphile) (looks like computerphile channel, but for maths)
+- [Mathematics' map](https://www.flickr.com/photos/95869671@N08/32264483720) (the different chapters of mathematics)
 
 
 
