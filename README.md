@@ -17,7 +17,7 @@
 
 ### New :
 
-- [Two minute papers] https://www.youtube.com/user/keeroyz (channel about new technologies, especialy in AI)
+- [Two minute papers](https://www.youtube.com/user/keeroyz) (channel about new technologies, especialy in AI)
 
 
 
