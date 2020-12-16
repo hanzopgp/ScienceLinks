@@ -1,5 +1,9 @@
 # Computer science links
 
+## Presentation :
+
+>This is a list of links I want to keep, channels I follow on youtube, links I have saved. I want to share those in case someone is looking for informations. Feel free to add some links in this list.
+
 ## General stuff :
 
 - [Computerphile](https://www.youtube.com/user/Computerphile) (tons of videos about very various topics)
@@ -10,8 +14,8 @@
 
 ## Arficial Intelligence :
 
-- [sentdex](https://www.youtube.com/c/sentdex/videos) (explaining how to build neural networks and how to use them)
-- [sentdex's animation](https://nnfs.io/neural_network_animations) (huge list of links explaining tons of concept using animations)
+- [Sentdex](https://www.youtube.com/c/sentdex/videos) (explaining how to build neural networks and how to use them)
+- [Sentdex's animation](https://nnfs.io/neural_network_animations) (huge list of links explaining tons of concept using animations)
 - [CodeBullet](https://www.youtube.com/channel/UC0e3QhIYukixgh5VVpKHH9Q) (funny guy using ai in games)
 - [Two minute papers](https://www.youtube.com/user/keeroyz) (channel about new technologies, especialy in AI)
 
