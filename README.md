@@ -9,7 +9,7 @@
 ### Educational purpose :
 
 - [sentdex](https://www.youtube.com/c/sentdex/videos) (explaining how to build neural networks and how to use them)
-- 
+- [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) (channel about a lot of stuff in computer science, some playlist about AI and ML)
 
 ### For fun :
 
