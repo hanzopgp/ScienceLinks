@@ -25,6 +25,7 @@
 - [Sentdex](https://www.youtube.com/c/sentdex/videos) (explaining how to build neural networks and how to use them)
 - [Sentdex's animation](https://nnfs.io/neural_network_animations) (huge list of links explaining tons of concept using animations)
 - [CodeBullet](https://www.youtube.com/channel/UC0e3QhIYukixgh5VVpKHH9Q) (funny guy using ai in games)
+- [CodeBullet](https://www.twitch.tv/codebullet/) (his twitch channel, where he actualy codes)
 - [Two minute papers](https://www.youtube.com/user/keeroyz) (channel about new technologies, especialy in AI)
 
 ## Mathematics :
