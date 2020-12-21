@@ -54,9 +54,3 @@
 - [La plus belle histoire de l'intelligence](https://www.amazon.fr/Plus-Belle-Histoire-lintelligence/dp/2221221109) (book about intelligence in general from a historical perspective)
 - [Quand la machine apprend](https://www.amazon.fr/Quand-machine-apprend-artificiels-lapprentissage/dp/2738149316) (french machine learning book)
 - [Deep Learning practicioners](https://www.amazon.com/Deep-Learning-Practitioners-Josh-Patterson/dp/1491914254) (very complete book about deep learning)
-
-### Philosophy :
-
-
-
-
