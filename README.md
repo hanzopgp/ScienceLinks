@@ -3,9 +3,8 @@
 ## Table of contents :
 
 1. [Presentation](#presentation-)
-2. [General stuff](#general-stuff-)
-3. [Artificial Intelligence](#artificial-intelligence-)
-4. [Mathematics](#mathematics-)
+2. [Internet](#internet-)
+3. [Books](#books-)
 
 ## Presentation :
 
