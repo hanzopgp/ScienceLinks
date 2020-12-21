@@ -11,7 +11,11 @@
 
 >This is a list of links I want to keep, channels I follow on youtube, links I have saved. I want to share those in case someone is looking for informations. Feel free to add some links in this list.
 
-## General stuff :
+<hr>
+
+## Internet :
+
+### General stuff :
 
 - [Computerphile](https://www.youtube.com/user/Computerphile) (tons of videos about very various topics)
 - [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) (channel about a lot of stuff in computer science, some playlist about AI and ML)
@@ -20,7 +24,7 @@
 - [Information is Beautiful](https://informationisbeautiful.net/) (nice data visualisation website)
 - [Computer science's map](https://www.flickr.com/photos/95869671@N08/36231833334) (the different chapters of computer science)
 
-## Arficial Intelligence :
+### Arficial Intelligence :
 
 - [Sentdex](https://www.youtube.com/c/sentdex/videos) (explaining how to build neural networks and how to use them)
 - [Sentdex's animation](https://nnfs.io/neural_network_animations) (huge list of links explaining tons of concept using animations)
@@ -28,14 +32,27 @@
 - [CodeBullet](https://www.twitch.tv/codebullet/) (his twitch channel, where he actualy codes)
 - [Two minute papers](https://www.youtube.com/user/keeroyz) (channel about new technologies, especialy in AI)
 
-## Mathematics :
+### Mathematics :
 
 - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) (really good channel about mathematics and also some videos about AI, his animation are really cool)
 - [Numberphile](https://www.youtube.com/user/numberphile) (looks like computerphile channel, but for maths)
 - [Mathematics' map](https://www.flickr.com/photos/95869671@N08/32264483720) (the different chapters of mathematics)
 
+<hr>
 
+## Books :
 
+### General stuff :
+
+- [Etienne Klein's books](https://www.amazon.com/Etienne-Klein/e/B001HOGQBA%3Fref=dbs_a_mng_rwt_scns_share) (french science popularizer)
+- [The Origin of Species](https://www.amazon.fr/Charles-Darwins-Natural-Selection-Species/dp/0521348072) (famous Darwin's evolution book)
+
+### Artificial Intelligence :
+
+- [Deep Learning practicioners](https://www.amazon.com/Deep-Learning-Practitioners-Josh-Patterson/dp/1491914254) (very complete book about deep learning)
+- [Quand la machine apprend](https://www.amazon.fr/Quand-machine-apprend-artificiels-lapprentissage/dp/2738149316) (french machine learning book)
+
+### Philosophy :
 
 
 
