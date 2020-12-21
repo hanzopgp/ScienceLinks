@@ -9,7 +9,7 @@
 
 ## Presentation :
 
->This is a list of links I want to keep, channels I follow on youtube, links I have saved. I want to share those in case someone is looking for informations. Feel free to add some links in this list.
+>This is a list of links I want to keep, channels I follow on youtube, links I have saved. I want to share those in case someone is looking for informations. Feel free to add some links in this list. There is some
 
 <hr>
 
@@ -51,8 +51,9 @@
 
 ### Artificial Intelligence :
 
-- [Deep Learning practicioners](https://www.amazon.com/Deep-Learning-Practitioners-Josh-Patterson/dp/1491914254) (very complete book about deep learning)
+- [La plus belle histoire de l'intelligence](https://www.amazon.fr/Plus-Belle-Histoire-lintelligence/dp/2221221109) (book about intelligence in general from a historical perspective)
 - [Quand la machine apprend](https://www.amazon.fr/Quand-machine-apprend-artificiels-lapprentissage/dp/2738149316) (french machine learning book)
+- [Deep Learning practicioners](https://www.amazon.com/Deep-Learning-Practitioners-Josh-Patterson/dp/1491914254) (very complete book about deep learning)
 
 ### Philosophy :
 
