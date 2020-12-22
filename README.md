@@ -22,6 +22,7 @@
 - [Primer](https://www.youtube.com/channel/UCKzJFdi57J53Vr_BkTfN3uQ) (awesome simulation to explain concepts done in python)
 - [Information is Beautiful](https://informationisbeautiful.net/) (nice data visualisation website)
 - [Computer science's map](https://www.flickr.com/photos/95869671@N08/36231833334) (the different chapters of computer science)
+- [Elon Musk](https://www.youtube.com/watch?v=_t6CEHzjYrc&ab_channel=DocumentaryCentral) (documentary about Elon Musk's companies)
 
 ### Arficial Intelligence :
 
@@ -30,8 +31,7 @@
 - [CodeBullet](https://www.youtube.com/channel/UC0e3QhIYukixgh5VVpKHH9Q) (funny guy using ai in games)
 - [CodeBullet](https://www.twitch.tv/codebullet/) (his twitch channel, where he actualy codes)
 - [Two minute papers](https://www.youtube.com/user/keeroyz) (channel about new technologies, especialy in AI)
-- [AlphaGo's movie](https://www.youtube.com/watch?v=WXuK6gekU1Y&ab_channel=DeepMind) (movie about DeepMind's AI winning against the best Go player)
-- [Tesla's documentary](https://www.youtube.com/watch?v=rD9PGi8hHvY&ab_channel=TradingCoachUK) (documentary about Tesla)
+- [AlphaGo](https://www.youtube.com/watch?v=WXuK6gekU1Y&ab_channel=DeepMind) (movie about DeepMind's AI winning against the best Go player)
 
 ### Mathematics :
 
