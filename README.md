@@ -25,6 +25,7 @@
 - [Elon Musk](https://www.youtube.com/watch?v=_t6CEHzjYrc&ab_channel=DocumentaryCentral) (documentary about Elon Musk's companies)
 - [Javidx9](https://www.youtube.com/channel/UC-yuWVUplUJZvieEligKBkA) (interesting stuff like 3D rendering in terminal)
 - [ScienceEtonnante](https://www.youtube.com/channel/UCaNlbnghtwlsGF-KzAFThqA) (one of the best science popularizer)
+- [Linus Tech Tips](https://www.youtube.com/c/LinusTechTips) (channel about hardware and most recent technologies)
 
 ### Arficial Intelligence :
 
