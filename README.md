@@ -50,6 +50,7 @@
 
 - [Etienne Klein's books](https://www.amazon.com/Etienne-Klein/e/B001HOGQBA%3Fref=dbs_a_mng_rwt_scns_share) (french science popularizer)
 - [The Origin of Species](https://www.amazon.fr/Charles-Darwins-Natural-Selection-Species/dp/0521348072) (famous Darwin's evolution book)
+- [Clean Code](https://www.amazon.fr/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) (Robert C. Martin's book about clean code)
 
 ### Artificial Intelligence :
 
