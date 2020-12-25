@@ -26,6 +26,8 @@
 - [Javidx9](https://www.youtube.com/channel/UC-yuWVUplUJZvieEligKBkA) (interesting stuff like 3D rendering in terminal)
 - [ScienceEtonnante](https://www.youtube.com/channel/UCaNlbnghtwlsGF-KzAFThqA) (one of the best science popularizer)
 - [Linus Tech Tips](https://www.youtube.com/c/LinusTechTips) (channel about hardware and most recent technologies)
+- [ThillSeeker](https://www.youtube.com/channel/UCSbdMXOI_3HGiFviLZO6kNA) (youtube channel about VR)
+- [NiK & ETR VR](https://www.youtube.com/channel/UC7VIUA4-4WIehSlfGL2LszQ) (french youtube channel about VR)
 
 ### Arficial Intelligence :
 
