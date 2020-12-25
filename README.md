@@ -32,7 +32,7 @@
 - [Sentdex](https://www.youtube.com/c/sentdex/videos) (explaining how to build neural networks and how to use them)
 - [Sentdex's animation](https://nnfs.io/neural_network_animations) (huge list of links explaining tons of concept using animations)
 - [CodeBullet](https://www.youtube.com/channel/UC0e3QhIYukixgh5VVpKHH9Q) (funny guy using ai in games)
-- [CodeBullet](https://www.twitch.tv/codebullet/) (his twitch channel, where he actualy codes)
+- [CodeBullet](https://www.twitch.tv/codebullet/) (his twitch channel, where he actualy shows code)
 - [Two minute papers](https://www.youtube.com/user/keeroyz) (channel about new technologies, especialy in AI)
 - [AlphaGo](https://www.youtube.com/watch?v=WXuK6gekU1Y&ab_channel=DeepMind) (movie about DeepMind's AI winning against the best Go player)
 
