@@ -8,7 +8,7 @@
 
 ## Presentation :
 
->This is a list of links  I want to keep, channels I follow on youtube, books I've read. I want to share those in case someone is looking for informations. Feel free to add some links in this list.
+>This is a list of links I want to keep, channels I follow on youtube, books I've read. I want to share those in case someone is looking for informations. Feel free to add some links in this list.
 
 <hr>
 
