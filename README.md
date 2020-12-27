@@ -28,6 +28,7 @@
 - [Linus Tech Tips](https://www.youtube.com/c/LinusTechTips) (channel about hardware and most recent technologies)
 - [ThillSeeker](https://www.youtube.com/channel/UCSbdMXOI_3HGiFviLZO6kNA) (youtube channel about VR)
 - [NiK & ETR VR](https://www.youtube.com/channel/UC7VIUA4-4WIehSlfGL2LszQ) (french youtube channel about VR)
+- [Quantum magazine](https://www.youtube.com/channel/UCTpmmkp1E4nmZqWPS-dl5bg) (interesting science videos)
 
 ### Arficial Intelligence :
 
