@@ -48,6 +48,12 @@
 - [Dirty Biology](https://www.youtube.com/watch?v=_fNHOBCJ64k&ab_channel=DirtyBiology) (french channel about sciences, this video is about the brain and the future of VR)
 - [ThillSeeker](https://www.youtube.com/channel/UCSbdMXOI_3HGiFviLZO6kNA) (youtube channel about VR)
 
+### Mathematics :
+
+- [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) (really good channel about mathematics and also some videos about AI, his animation are really cool)
+- [Numberphile](https://www.youtube.com/user/numberphile) (looks like computerphile channel, but for maths)
+- [Mathematics' map](https://www.flickr.com/photos/95869671@N08/32264483720) (the different chapters of mathematics)
+
 ### Conferences :
 
 - [Elon Musk about climate](https://www.youtube.com/watch?v=BMskI6G9ty0&t=2757s&ab_channel=Universit%C3%A9Paris1Panth%C3%A9on-Sorbonne) (conference about the future of earth, carbon, climate...)
@@ -57,12 +63,6 @@
 - [Etienne Klein about the big bang](https://www.youtube.com/watch?v=E55ZjWm6wQ4&t=301s&ab_channel=MUMONS) (french conference about how the universe began)
 - [Etienne Klein about time](https://www.youtube.com/watch?v=DyVEU71Azno&t=2s) (french conference about time, can we travel in time etc)
 - [Chistophe Galfard about universe origins](https://www.youtube.com/watch?v=1TJb72NwdQw&ab_channel=Espacedessciences) (french conference talking about how the universe began)
-
-### Mathematics :
-
-- [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) (really good channel about mathematics and also some videos about AI, his animation are really cool)
-- [Numberphile](https://www.youtube.com/user/numberphile) (looks like computerphile channel, but for maths)
-- [Mathematics' map](https://www.flickr.com/photos/95869671@N08/32264483720) (the different chapters of mathematics)
 
 <hr>
 
@@ -76,7 +76,7 @@
 
 ### Artificial Intelligence :
 
-- [La plus belle histoire de l'intelligence](https://www.amazon.fr/Plus-Belle-Histoire-lintelligence/dp/2221221109) (book about intelligence in general from a historical perspective)
-- [Quand la machine apprend](https://www.amazon.fr/Quand-machine-apprend-artificiels-lapprentissage/dp/2738149316) (french machine learning book)
-- [Deep Learning practicioners](https://www.amazon.com/Deep-Learning-Practitioners-Josh-Patterson/dp/1491914254) (very complete book about deep learning)
+- [The most beautiful story of intelligence](https://www.amazon.fr/Plus-Belle-Histoire-lintelligence/dp/2221221109) (book about intelligence in general from a historical perspective)
+- [When the machin learns](https://www.amazon.fr/Quand-machine-apprend-artificiels-lapprentissage/dp/2738149316) (french machine learning book)
+- [Deep Learning, A practicioners approach](https://www.amazon.com/Deep-Learning-Practitioners-Josh-Patterson/dp/1491914254) (very complete book about deep learning)
 - [Neural network from scratch](https://nnfs.io/) (how to build a neural network from scratch)
