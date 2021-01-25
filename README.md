@@ -9,6 +9,7 @@
 ## Presentation :
 
 <p><img src="donut.png"></p>
+<p>Artist : https://www.flickr.com/photos/95869671@N08/<p>
 
 >This is a list of links I want to keep, channels I follow on youtube, books I've read. I want to share those in case someone is looking for informations.
 <br>This list will mostly contains science stuff, mainly maths, physics and computer science. I've bought a VR headset so I'm also really into VR technologies nowadays.
