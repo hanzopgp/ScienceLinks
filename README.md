@@ -62,13 +62,13 @@
 ### Conferences :
 
 - [Elon Musk about climate](https://www.youtube.com/watch?v=BMskI6G9ty0&t=2757s&ab_channel=Universit%C3%A9Paris1Panth%C3%A9on-Sorbonne) (conference about the future of earth, carbon, climate...)
+- [Elon Musk Neuralink demonstration](https://www.youtube.com/watch?v=iOWFXqT5MZ4&ab_channel=CNET) (demonstration of neuralink on pigs)
 - [Cédric Villani about maths](https://www.youtube.com/watch?v=rLFUnCUyPko&ab_channel=HECParis) (french conference about general uses of maths...)
 - [Etienne Klein about death](https://www.youtube.com/watch?v=G7PBXyYPpmM&ab_channel=Dennissking) (french conference about the death from physics pov)
 - [Etienne Klein about Higgs boson](https://www.youtube.com/watch?v=KJQl--wHQSM&t=1s&ab_channel=Thinkerview) (french conference about higgs boson)
 - [Etienne Klein about the big bang](https://www.youtube.com/watch?v=E55ZjWm6wQ4&t=301s&ab_channel=MUMONS) (french conference about how the universe began)
 - [Etienne Klein about time](https://www.youtube.com/watch?v=DyVEU71Azno&t=2s) (french conference about time, can we travel in time etc)
 - [Chistophe Galfard about universe origins](https://www.youtube.com/watch?v=1TJb72NwdQw&ab_channel=Espacedessciences) (french conference talking about how the universe began)
-- [Elon Musk Neuralink demonstration](https://www.youtube.com/watch?v=iOWFXqT5MZ4&ab_channel=CNET) (demonstration of neuralink on pigs)
 
 <hr>
 
