@@ -16,19 +16,20 @@
 
 ### General stuff :
 
-- [Computerphile](https://www.youtube.com/user/Computerphile) (tons of videos about very various topics)
-- [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) (channel about a lot of stuff in computer science, some playlist about AI and ML)
-- [Uncle bob's lessons](https://www.youtube.com/watch?v=7EmboKQH8lM&t=15s&ab_channel=UnityCoin) (6 videos about clean code, tests, ethics... )
 - [Primer](https://www.youtube.com/channel/UCKzJFdi57J53Vr_BkTfN3uQ) (awesome simulation to explain concepts done in python)
 - [Information is Beautiful](https://informationisbeautiful.net/) (nice data visualisation website)
-- [Computer science's map](https://www.flickr.com/photos/95869671@N08/36231833334) (the different chapters of computer science)
 - [Elon Musk](https://www.youtube.com/watch?v=_t6CEHzjYrc&ab_channel=DocumentaryCentral) (documentary about Elon Musk's companies)
-- [Javidx9](https://www.youtube.com/channel/UC-yuWVUplUJZvieEligKBkA) (interesting stuff like 3D rendering in terminal)
 - [ScienceEtonnante](https://www.youtube.com/channel/UCaNlbnghtwlsGF-KzAFThqA) (one of the best science popularizer)
 - [Linus Tech Tips](https://www.youtube.com/c/LinusTechTips) (channel about hardware and most recent technologies)
-- [ThillSeeker](https://www.youtube.com/channel/UCSbdMXOI_3HGiFviLZO6kNA) (youtube channel about VR)
-- [NiK & ETR VR](https://www.youtube.com/channel/UC7VIUA4-4WIehSlfGL2LszQ) (french youtube channel about VR)
 - [Quantum magazine](https://www.youtube.com/channel/UCTpmmkp1E4nmZqWPS-dl5bg) (interesting science videos)
+
+### Computer Science :
+
+- [Uncle bob's lessons](https://www.youtube.com/watch?v=7EmboKQH8lM&t=15s&ab_channel=UnityCoin) (6 videos about clean code, tests, ethics... )
+- [Computerphile](https://www.youtube.com/user/Computerphile) (tons of videos about very various topics)
+- [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) (channel about a lot of stuff in computer science, some playlist about AI and ML)
+- [Computer science's map](https://www.flickr.com/photos/95869671@N08/36231833334) (the different chapters of computer science)
+- [Javidx9](https://www.youtube.com/channel/UC-yuWVUplUJZvieEligKBkA) (interesting stuff like 3D rendering in terminal)
 
 ### Arficial Intelligence :
 
@@ -38,6 +39,18 @@
 - [CodeBullet](https://www.twitch.tv/codebullet/) (his twitch channel, where he actualy shows code)
 - [Two minute papers](https://www.youtube.com/user/keeroyz) (channel about new technologies, especialy in AI)
 - [AlphaGo](https://www.youtube.com/watch?v=WXuK6gekU1Y&ab_channel=DeepMind) (movie about DeepMind's AI winning against the best Go player)
+
+### Virtual Reality / Augmented Reality :
+
+- [NiK & ETR VR](https://www.youtube.com/channel/UC7VIUA4-4WIehSlfGL2LszQ) (french youtube channel about VR)
+- [Dirty Biology](https://www.youtube.com/watch?v=_fNHOBCJ64k&ab_channel=DirtyBiology) (french channel about sciences, this video is about the brain and the future of VR)
+- [ThillSeeker](https://www.youtube.com/channel/UCSbdMXOI_3HGiFviLZO6kNA) (youtube channel about VR)
+
+### Conferences :
+
+- [Elon Musk about climate](https://www.youtube.com/watch?v=BMskI6G9ty0&t=2757s&ab_channel=Universit%C3%A9Paris1Panth%C3%A9on-Sorbonne) (conference about the future of earth, carbon, climate...)
+- [Etienne Klein about death](https://www.youtube.com/watch?v=G7PBXyYPpmM&ab_channel=Dennissking) (french conference about the death from physics pov)
+- [Cédric Villani about maths](https://www.youtube.com/watch?v=rLFUnCUyPko&ab_channel=HECParis) (french conference about general uses of maths...)
 
 ### Mathematics :
 
