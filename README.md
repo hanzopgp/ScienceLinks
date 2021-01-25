@@ -1,4 +1,4 @@
-# ComputerScienceLinks
+# ScienceLinks
 
 ## Table of contents :
 
@@ -18,9 +18,10 @@
 
 ### General stuff :
 
+- [Elon Musk](https://www.youtube.com/watch?v=_t6CEHzjYrc&ab_channel=DocumentaryCentral) (documentary about Elon Musk's companies)
+- [Xavier Niel](https://www.youtube.com/watch?v=8SFyskuqZLA&ab_channel=LCP) (Xavier Niel interview about his career)
 - [Primer](https://www.youtube.com/channel/UCKzJFdi57J53Vr_BkTfN3uQ) (awesome simulation to explain concepts done in python)
 - [Information is Beautiful](https://informationisbeautiful.net/) (nice data visualisation website)
-- [Elon Musk](https://www.youtube.com/watch?v=_t6CEHzjYrc&ab_channel=DocumentaryCentral) (documentary about Elon Musk's companies)
 - [ScienceEtonnante](https://www.youtube.com/channel/UCaNlbnghtwlsGF-KzAFThqA) (one of the best science popularizer)
 - [Linus Tech Tips](https://www.youtube.com/c/LinusTechTips) (channel about hardware and most recent technologies)
 - [Quantum magazine](https://www.youtube.com/channel/UCTpmmkp1E4nmZqWPS-dl5bg) (interesting science videos)
