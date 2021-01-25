@@ -9,7 +9,7 @@
 ## Presentation :
 
 <br>
-<p><img src="donut.png"></p>
+<p><img align="center" width="80%" src="donut.png"></p>
 <p><i>Artist : https://www.flickr.com/photos/95869671@N08/</i></p>
 <br>
 >This is a list of links I want to keep, channels I follow on youtube, books I've read. I want to share those in case someone is looking for informations.
