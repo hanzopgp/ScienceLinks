@@ -30,6 +30,7 @@
 - [ScienceEtonnante](https://www.youtube.com/channel/UCaNlbnghtwlsGF-KzAFThqA) (one of the best science popularizer)
 - [Linus Tech Tips](https://www.youtube.com/c/LinusTechTips) (channel about hardware and most recent technologies)
 - [Quantum magazine](https://www.youtube.com/channel/UCTpmmkp1E4nmZqWPS-dl5bg) (interesting science videos)
+- [Neura Pod](https://www.youtube.com/c/NeuraPod) (youtube channel about neuralink news)
 
 ### Computer Science :
 
