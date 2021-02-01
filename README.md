@@ -49,6 +49,7 @@
 - [CodeBullet](https://www.twitch.tv/codebullet/) (his twitch channel, where he actualy shows code)
 - [Two minute papers](https://www.youtube.com/user/keeroyz) (channel about new technologies, especialy in AI)
 - [AlphaGo](https://www.youtube.com/watch?v=WXuK6gekU1Y&ab_channel=DeepMind) (movie about DeepMind's AI winning against the best Go player)
+- [Different types of NN](https://towardsdatascience.com/types-of-neural-network-and-what-each-one-does-explained-d9b4c0ed63a1) (article about MLP/CNN/RNN...)
 
 ### Virtual Reality / Augmented Reality :
 
