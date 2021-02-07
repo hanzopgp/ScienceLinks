@@ -83,10 +83,6 @@
 
 ### General stuff :
 
-- [Time never rings twice](https://editions.flammarion.com/le-facteur-temps-ne-sonne-jamais-deux-fois/9782081391567) (Etienne Klein about time in physics)
-- [Chronos](https://editions.flammarion.com/les-tactiques-de-chronos/9782080206244) (Etienne Klein about time in physics)
-- [Universe origins](https://editions.flammarion.com/discours-sur-l-origine-de-l-univers/9782081228795) (Etienne Klein about universe's origin)
-- [Black holes and time distorsion](https://editions.flammarion.com/trous-noirs-et-distorsions-du-temps/9782081224964) (Kip S. Thorne book about black holes)
 - [The Origin of Species](https://www.amazon.fr/Charles-Darwins-Natural-Selection-Species/dp/0521348072) (famous Darwin's evolution book)
 - [Clean Code](https://www.amazon.fr/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) (Robert C. Martin's book about clean code)
 
@@ -96,3 +92,10 @@
 - [When the machin learns](https://www.amazon.fr/Quand-machine-apprend-artificiels-lapprentissage/dp/2738149316) (french machine learning book)
 - [Deep Learning, A practicioners approach](https://www.amazon.com/Deep-Learning-Practitioners-Josh-Patterson/dp/1491914254) (very complete book about deep learning)
 - [Neural network from scratch](https://nnfs.io/) (how to build a neural network from scratch)
+
+### Physics :
+
+- [Time never rings twice](https://editions.flammarion.com/le-facteur-temps-ne-sonne-jamais-deux-fois/9782081391567) (Etienne Klein about time in physics)
+- [Chronos](https://editions.flammarion.com/les-tactiques-de-chronos/9782080206244) (Etienne Klein about time in physics)
+- [Universe origins](https://editions.flammarion.com/discours-sur-l-origine-de-l-univers/9782081228795) (Etienne Klein about universe's origin)
+- [Black holes and time distorsion](https://editions.flammarion.com/trous-noirs-et-distorsions-du-temps/9782081224964) (Kip S. Thorne's book about black holes)
