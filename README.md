@@ -65,7 +65,7 @@
 ### Mathematics :
 
 - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) (really good channel about mathematics and also some videos about AI, his animation are really cool)
-- [Numberphile](https://www.youtube.com/user/numberphile) (looks like computerphile channel, but for maths)
+- [Numberphile](https://www.youtube.com/user/numberphile) (Youtube channel about maths, like computerphile)
 - [Mathematics' map](https://www.flickr.com/photos/95869671@N08/32264483720) (the different chapters of mathematics)
 
 ### Conferences :
