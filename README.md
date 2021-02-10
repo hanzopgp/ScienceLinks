@@ -33,6 +33,7 @@
 - [Quantum magazine](https://www.youtube.com/channel/UCTpmmkp1E4nmZqWPS-dl5bg) (interesting science videos)
 - [Neura Pod](https://www.youtube.com/c/NeuraPod) (youtube channel about neuralink news)
 - [Melodysheep](https://www.youtube.com/watch?v=uD4izuDMUQA&ab_channel=melodysheep) (video about the future, big crunch/rip/freeze theory...)
+- [Jensky doc](https://www.youtube.com/watch?v=Wj-fec4a3Ps&ab_channel=Jensky) (french documentary about dark energy & matter)
 
 
 ### Computer Science :
