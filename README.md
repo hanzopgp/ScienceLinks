@@ -55,6 +55,7 @@
 - [AlphaGo](https://www.youtube.com/watch?v=WXuK6gekU1Y&ab_channel=DeepMind) (movie about DeepMind's AI winning against the best Go player)
 - [Different types of NN](https://towardsdatascience.com/types-of-neural-network-and-what-each-one-does-explained-d9b4c0ed63a1) (article about MLP/CNN/RNN...)
 - [Draw your NN](http://alexlenail.me/NN-SVG/index.html) (tool to draw your nn online)
+- [Trackmania AIs](https://www.youtube.com/channel/UCh1zLfuN6F_X4eoNKCsyICA) (different machine learning algorithms in trackmania)
 
 ### Virtual Reality / Augmented Reality :
 
