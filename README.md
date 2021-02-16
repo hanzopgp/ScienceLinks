@@ -44,6 +44,7 @@
 - [Computer science's map](https://www.flickr.com/photos/95869671@N08/36231833334) (the different chapters of computer science)
 - [Javidx9](https://www.youtube.com/channel/UC-yuWVUplUJZvieEligKBkA) (interesting stuff like 3D rendering in terminal)
 - [Hyperbolica](https://www.youtube.com/watch?v=EMKLeS-Uq_8&ab_channel=CodeParade) (video about non-euclidean game)
+- [Language theory and compilation](https://www.youtube.com/watch?v=WbUpN4fHs_k&list=PLu008__K5BwEMnt6cyxTeYC7vMKmQ2fzo&index=1&ab_channel=AkimDemaille) (EPITA lecture playlist)
 
 ### Arficial Intelligence :
 
