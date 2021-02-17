@@ -34,6 +34,7 @@
 - [Neura Pod](https://www.youtube.com/c/NeuraPod) (youtube channel about neuralink news)
 - [Melodysheep](https://www.youtube.com/watch?v=uD4izuDMUQA&ab_channel=melodysheep) (video about the future, big crunch/rip/freeze theory...)
 - [Jensky doc](https://www.youtube.com/watch?v=Wj-fec4a3Ps&ab_channel=Jensky) (french documentary about dark energy & matter)
+- [Ericksonian hypnosis](https://www.youtube.com/watch?v=InkHhnNskZ4&ab_channel=ARCHE) (french hypnosis demonstration from [Arche hypnose](https://www.arche-hypnose.com/))
 
 
 ### Computer Science :
