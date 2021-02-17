@@ -39,7 +39,6 @@
 
 ### Computer Science :
 
-- [Uncle bob's lessons](https://www.youtube.com/watch?v=7EmboKQH8lM&t=15s&ab_channel=UnityCoin) (6 videos about clean code, tests, ethics... )
 - [Computerphile](https://www.youtube.com/user/Computerphile) (tons of videos about very various topics)
 - [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) (channel about a lot of stuff in computer science, some playlist about AI and ML)
 - [Computer science's map](https://www.flickr.com/photos/95869671@N08/36231833334) (the different chapters of computer science)
@@ -74,6 +73,7 @@
 
 ### Conferences :
 
+- [Uncle bob's lessons](https://www.youtube.com/watch?v=7EmboKQH8lM&t=15s&ab_channel=UnityCoin) (6 videos about clean code, tests, ethics... )
 - [Elon Musk about climate](https://www.youtube.com/watch?v=BMskI6G9ty0&t=2757s&ab_channel=Universit%C3%A9Paris1Panth%C3%A9on-Sorbonne) (conference about the future of earth, carbon, climate...)
 - [Elon Musk Neuralink demonstration](https://www.youtube.com/watch?v=iOWFXqT5MZ4&ab_channel=CNET) (demonstration of neuralink on pigs)
 - [Cédric Villani about maths](https://www.youtube.com/watch?v=rLFUnCUyPko&ab_channel=HECParis) (french conference about general uses of maths...)
