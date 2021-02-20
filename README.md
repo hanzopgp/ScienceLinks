@@ -58,7 +58,8 @@
 - [Different types of NN](https://towardsdatascience.com/types-of-neural-network-and-what-each-one-does-explained-d9b4c0ed63a1) (article about MLP/CNN/RNN...)
 - [Draw your NN](http://alexlenail.me/NN-SVG/index.html) (tool to draw your nn online)
 - [Trackmania AIs](https://www.youtube.com/channel/UCh1zLfuN6F_X4eoNKCsyICA) (different machine learning algorithms in trackmania)
-- [Yann Le Cun Deep learning](https://www.youtube.com/watch?v=RgUcQceqC_Y&ab_channel=USIEvents) (lecture about deep learning at USI)
+- [Yann Le Cun Deep learning 2015](https://www.youtube.com/watch?v=RgUcQceqC_Y&ab_channel=USIEvents) (lecture about deep learning at USI in FR)
+- [Yann Le Cun Deep learning 2018](https://www.youtube.com/watch?v=2WiPx6thH2E&ab_channel=USIEvents) (lecture about deep learning at USI in FR)
 
 ### Virtual Reality / Augmented Reality :
 
