@@ -77,6 +77,7 @@
 - [Elon Musk Neuralink demonstration](https://www.youtube.com/watch?v=iOWFXqT5MZ4&ab_channel=CNET) (demonstration of neuralink on pigs)
 - [Cédric Villani about maths](https://www.youtube.com/watch?v=rLFUnCUyPko&ab_channel=HECParis) (french conference about general uses of maths...)
 - [Cédric Villani about ideas](https://www.youtube.com/watch?v=prpoogz36Sc&ab_channel=USIEvents) (french conference about how ideas are born)
+- [Cédric Villani about AI](https://www.youtube.com/watch?v=0Ag9yA7MpQU&ab_channel=EPFIng%C3%A9nieurs) (french conference about AI)
 - [Etienne Klein about death](https://www.youtube.com/watch?v=G7PBXyYPpmM&ab_channel=Dennissking) (french conference about the death from physics pov)
 - [Etienne Klein about Higgs boson](https://www.youtube.com/watch?v=KJQl--wHQSM&t=1s&ab_channel=Thinkerview) (french conference about higgs boson)
 - [Etienne Klein about the big bang](https://www.youtube.com/watch?v=E55ZjWm6wQ4&t=301s&ab_channel=MUMONS) (french conference about how the universe began)
