@@ -17,47 +17,29 @@
 
 <hr>
 
-## Internet :
+## Youtube channel :
 
 ### General stuff :
 
-- [Elon Musk](https://www.youtube.com/watch?v=_t6CEHzjYrc&ab_channel=DocumentaryCentral) (documentary about Elon Musk's companies)
-- [Xavier Niel](https://www.youtube.com/watch?v=8SFyskuqZLA&ab_channel=LCP) (Xavier Niel interview about his career)
-- [WIRED 5 levels](https://www.youtube.com/playlist?list=PLibNZv5Zd0dyCoQ6f4pdXUFnpAIlKgm3N) (An expert explains a complex subject in five levels of complexity)
 - [Primer](https://www.youtube.com/channel/UCKzJFdi57J53Vr_BkTfN3uQ) (awesome simulation to explain concepts done in python)
-- [Information is Beautiful](https://informationisbeautiful.net/) (nice data visualisation website)
 - [Science Etonnante](https://www.youtube.com/channel/UCaNlbnghtwlsGF-KzAFThqA) (one of the best science popularizer)
-- [Linus Tech Tips](https://www.youtube.com/c/LinusTechTips) (channel about hardware and most recent technologies)
 - [Short Circuit](https://www.youtube.com/channel/UCdBK94H6oZT2Q7l0-b0xmMg) (secondary channel of Linus Tech Tips)
-- [Quantum magazine](https://www.youtube.com/channel/UCTpmmkp1E4nmZqWPS-dl5bg) (interesting science videos)
-- [Neura Pod](https://www.youtube.com/c/NeuraPod) (youtube channel about neuralink news)
-- [Melodysheep](https://www.youtube.com/watch?v=uD4izuDMUQA&ab_channel=melodysheep) (video about the future, big crunch/rip/freeze theory...)
-- [Jensky doc](https://www.youtube.com/watch?v=Wj-fec4a3Ps&ab_channel=Jensky) (french documentary about dark energy & matter)
-- [Ericksonian hypnosis](https://www.youtube.com/watch?v=InkHhnNskZ4&ab_channel=ARCHE) (french hypnosis demonstration from [Arche hypnose](https://www.arche-hypnose.com/))
-
-
-### Computer Science :
-
+- [Linus Tech Tips](https://www.youtube.com/c/LinusTechTips) (channel about hardware and most recent technologies)
 - [Computerphile](https://www.youtube.com/user/Computerphile) (tons of videos about very various topics)
 - [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) (channel about a lot of stuff in computer science, some playlist about AI and ML)
-- [Computer science's map](https://www.flickr.com/photos/95869671@N08/36231833334) (the different chapters of computer science)
 - [Javidx9](https://www.youtube.com/channel/UC-yuWVUplUJZvieEligKBkA) (interesting stuff like 3D rendering in terminal)
-- [Hyperbolica](https://www.youtube.com/watch?v=EMKLeS-Uq_8&ab_channel=CodeParade) (video about non-euclidean game)
-- [Language theory and compilation](https://www.youtube.com/watch?v=WbUpN4fHs_k&list=PLu008__K5BwEMnt6cyxTeYC7vMKmQ2fzo&index=1&ab_channel=AkimDemaille) (EPITA lecture playlist)
 
-### Arficial Intelligence :
+### Artificial Intelligence :
 
-- [WIRED doc](https://www.youtube.com/watch?v=ZJixNvx9BAc&ab_channel=WIRED) (documentary about AI)
 - [Sentdex](https://www.youtube.com/c/sentdex/videos) (explaining how to build neural networks and how to use them)
-- [Sentdex's animation](https://nnfs.io/neural_network_animations) (huge list of links explaining tons of concept using animations)
 - [CodeBullet](https://www.youtube.com/channel/UC0e3QhIYukixgh5VVpKHH9Q) (funny guy using ai in games)
-- [CodeBullet](https://www.twitch.tv/codebullet/) (his twitch channel, where he actualy shows code)
-- [Two minute papers](https://www.youtube.com/user/keeroyz) (channel about new technologies, especialy in AI)
-- [AlphaGo](https://www.youtube.com/watch?v=WXuK6gekU1Y&ab_channel=DeepMind) (movie about DeepMind's AI winning against the best Go player)
-- [Different types of NN](https://towardsdatascience.com/types-of-neural-network-and-what-each-one-does-explained-d9b4c0ed63a1) (article about MLP/CNN/RNN...)
-- [Draw your NN](http://alexlenail.me/NN-SVG/index.html) (tool to draw your nn online)
 - [Trackmania AIs](https://www.youtube.com/channel/UCh1zLfuN6F_X4eoNKCsyICA) (different machine learning algorithms in trackmania)
 - [Defend Intelligence](https://www.youtube.com/c/DefendIntelligence-tech/videos) (french youtube channel about AI/Data science)
+
+### Mathematics :
+
+- [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) (really good channel about mathematics and also some videos about AI, his animation are really cool)
+- [Numberphile](https://www.youtube.com/user/numberphile) (Youtube channel about maths, like computerphile)
 
 ### Virtual Reality / Augmented Reality :
 
@@ -65,11 +47,33 @@
 - [Dirty Biology](https://www.youtube.com/watch?v=_fNHOBCJ64k&ab_channel=DirtyBiology) (french channel about sciences, this video is about the brain and the future of VR)
 - [ThillSeeker](https://www.youtube.com/channel/UCSbdMXOI_3HGiFviLZO6kNA) (youtube channel about VR)
 
-### Mathematics :
+<hr>
 
-- [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) (really good channel about mathematics and also some videos about AI, his animation are really cool)
-- [Numberphile](https://www.youtube.com/user/numberphile) (Youtube channel about maths, like computerphile)
-- [Mathematics' map](https://www.flickr.com/photos/95869671@N08/32264483720) (the different chapters of mathematics)
+## Documentary and interviews :
+
+- [Elon Musk](https://www.youtube.com/watch?v=_t6CEHzjYrc&ab_channel=DocumentaryCentral) (documentary about Elon Musk's companies)
+- [Xavier Niel](https://www.youtube.com/watch?v=8SFyskuqZLA&ab_channel=LCP) (Xavier Niel interview about his career)
+- [Jensky doc](https://www.youtube.com/watch?v=Wj-fec4a3Ps&ab_channel=Jensky) (french documentary about dark energy & matter)
+- [Ericksonian hypnosis](https://www.youtube.com/watch?v=InkHhnNskZ4&ab_channel=ARCHE) (french hypnosis demonstration from [Arche hypnose](https://www.arche-hypnose.com/))
+- [WIRED doc](https://www.youtube.com/watch?v=ZJixNvx9BAc&ab_channel=WIRED) (documentary about AI)
+- [AlphaGo](https://www.youtube.com/watch?v=WXuK6gekU1Y&ab_channel=DeepMind) (movie about DeepMind's AI winning against the best Go player)
+- [Melodysheep](https://www.youtube.com/watch?v=uD4izuDMUQA&ab_channel=melodysheep) (video about the future, big crunch/rip/freeze theory...)
+
+<hr>
+
+## Magazines
+
+- [Quantum magazine](https://www.youtube.com/channel/UCTpmmkp1E4nmZqWPS-dl5bg) (interesting science videos)
+- [Two minute papers](https://www.youtube.com/user/keeroyz) (channel about new technologies, especialy in AI)
+- [Neura Pod](https://www.youtube.com/c/NeuraPod) (youtube channel about neuralink news)
+
+<hr>
+
+- [WIRED 5 levels](https://www.youtube.com/playlist?list=PLibNZv5Zd0dyCoQ6f4pdXUFnpAIlKgm3N) (An expert explains a complex subject in five levels of complexity)
+- [Information is Beautiful](https://informationisbeautiful.net/) (nice data visualisation website)
+- [Computer science's map](https://www.flickr.com/photos/95869671@N08/36231833334) (the different chapters of computer science)
+- [Hyperbolica](https://www.youtube.com/watch?v=EMKLeS-Uq_8&ab_channel=CodeParade) (video about non-euclidean game)
+- [Language theory and compilation](https://www.youtube.com/watch?v=WbUpN4fHs_k&list=PLu008__K5BwEMnt6cyxTeYC7vMKmQ2fzo&index=1&ab_channel=AkimDemaille) (EPITA lecture playlist)
 
 <hr>
 
@@ -119,3 +123,11 @@
 - [Chronos](https://editions.flammarion.com/les-tactiques-de-chronos/9782080206244) (Etienne Klein about time in physics)
 - [Universe origins](https://editions.flammarion.com/discours-sur-l-origine-de-l-univers/9782081228795) (Etienne Klein about universe's origin)
 - [Black holes and time distorsion](https://editions.flammarion.com/trous-noirs-et-distorsions-du-temps/9782081224964) (Kip S. Thorne's book about black holes)
+
+## Random links :
+
+- [Sentdex's animation](https://nnfs.io/neural_network_animations) (huge list of links explaining tons of concept using animations)
+- [CodeBullet](https://www.twitch.tv/codebullet/) (his twitch channel, where he actualy shows code)
+- [Different types of NN](https://towardsdatascience.com/types-of-neural-network-and-what-each-one-does-explained-d9b4c0ed63a1) (article about MLP/CNN/RNN...)
+- [Draw your NN](http://alexlenail.me/NN-SVG/index.html) (tool to draw your nn online)
+- [Mathematics' map](https://www.flickr.com/photos/95869671@N08/32264483720) (the different chapters of mathematics)
