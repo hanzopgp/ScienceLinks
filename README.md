@@ -2,11 +2,16 @@
 
 ## Table of contents :
 
-1. [Presentation](#presentation-)
-2. [Internet](#internet-)
-3. [Books](#books-)
+1. [Presentation](#presentation)
+2. [Conferences](#conferences)
+3. [Youtube channel](#youtube-channels)
+4. [Documentaries and interviews](#documentaries-and-interviews)
+5. [Books](#books)
+6. [Magazines](#magazines)
+7. [Websites](#webites)
+8. [Solo videos](#solo-videos)
 
-## Presentation :
+## Presentation
 
 <br>
 <p align="center"><img width="80%" src="donut.png"><br><i>Artist : https://www.flickr.com/photos/95869671@N08/</i></p>
@@ -17,7 +22,7 @@
 
 <hr>
 
-## Conferences :
+## Conferences
 
 ### General stuff :
 
@@ -43,7 +48,7 @@
 
 <hr>
 
-## Youtube channel :
+## Youtube channels
 
 ### General stuff :
 
@@ -75,7 +80,7 @@
 
 <hr>
 
-## Documentary and interviews :
+## Documentaries and interviews
 
 - [Elon Musk](https://www.youtube.com/watch?v=_t6CEHzjYrc&ab_channel=DocumentaryCentral) (documentary about Elon Musk's companies)
 - [Xavier Niel](https://www.youtube.com/watch?v=8SFyskuqZLA&ab_channel=LCP) (Xavier Niel interview about his career)
@@ -87,7 +92,7 @@
 
 <hr>
 
-## Books :
+## Books
 
 ### General stuff :
 
@@ -118,7 +123,7 @@
 
 <hr>
 
-## Websites :
+## Websites
 
 - [Sentdex's animation](https://nnfs.io/neural_network_animations) (huge list of links explaining tons of concept using animations)
 - [Different types of NN](https://towardsdatascience.com/types-of-neural-network-and-what-each-one-does-explained-d9b4c0ed63a1) (article about MLP/CNN/RNN...)
@@ -129,7 +134,7 @@
 
 <hr>
 
-## Solo videos :
+## Solo videos
 
 - [WIRED 5 levels](https://www.youtube.com/playlist?list=PLibNZv5Zd0dyCoQ6f4pdXUFnpAIlKgm3N) (An expert explains a complex subject in five levels of complexity)
 - [Hyperbolica](https://www.youtube.com/watch?v=EMKLeS-Uq_8&ab_channel=CodeParade) (video about non-euclidean game)
