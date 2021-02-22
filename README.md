@@ -125,7 +125,7 @@
 
 ## Websites
 
-- [Sentdex's animation](https://nnfs.io/neural_network_animations) (huge list of links explaining tons of concept using animations)
+- [Sentdex's animation](https://nnfs.io/neural_network_animations) (huge list of links explaining tons of AI concept using animations)
 - [Different types of NN](https://towardsdatascience.com/types-of-neural-network-and-what-each-one-does-explained-d9b4c0ed63a1) (article about MLP/CNN/RNN...)
 - [Information is Beautiful](https://informationisbeautiful.net/) (nice data visualisation website)
 - [Computer science's map](https://www.flickr.com/photos/95869671@N08/36231833334) (the different chapters of computer science)
