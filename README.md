@@ -116,6 +116,8 @@
 - [Universe origins](https://editions.flammarion.com/discours-sur-l-origine-de-l-univers/9782081228795) (Etienne Klein about universe's origin)
 - [Black holes and time distorsion](https://editions.flammarion.com/trous-noirs-et-distorsions-du-temps/9782081224964) (Kip S. Thorne's book about black holes)
 
+<hr>
+
 ## Websites :
 
 - [Sentdex's animation](https://nnfs.io/neural_network_animations) (huge list of links explaining tons of concept using animations)
@@ -124,6 +126,8 @@
 - [Computer science's map](https://www.flickr.com/photos/95869671@N08/36231833334) (the different chapters of computer science)
 - [Mathematics' map](https://www.flickr.com/photos/95869671@N08/32264483720) (the different chapters of mathematics)
 - [Draw your NN](http://alexlenail.me/NN-SVG/index.html) (tool to draw your nn online)
+
+<hr>
 
 ## Solo videos :
 
