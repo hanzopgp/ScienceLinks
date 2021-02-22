@@ -1,6 +1,6 @@
 # ScienceLinks
 
-## Table of contents :
+## Table of contents
 
 1. [Presentation](#presentation)
 2. [Conferences](#conferences)
