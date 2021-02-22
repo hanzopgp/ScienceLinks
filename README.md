@@ -131,6 +131,7 @@
 - [Computer science's map](https://www.flickr.com/photos/95869671@N08/36231833334) (the different chapters of computer science)
 - [Mathematics' map](https://www.flickr.com/photos/95869671@N08/32264483720) (the different chapters of mathematics)
 - [Draw your NN](http://alexlenail.me/NN-SVG/index.html) (tool to draw your nn online)
+- [Esoteric programming languages](https://esolangs.org/wiki////) (wikipage of slashes language)
 
 <hr>
 
