@@ -11,6 +11,8 @@
 7. [Websites](#webites)
 8. [Solo videos](#solo-videos)
 
+<hr>
+
 ## Presentation
 
 <br>
