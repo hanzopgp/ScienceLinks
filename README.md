@@ -44,6 +44,7 @@
 - [Etienne Klein about Higgs boson](https://www.youtube.com/watch?v=KJQl--wHQSM&t=1s&ab_channel=Thinkerview) (french conference about higgs boson)
 - [Etienne Klein about the big bang](https://www.youtube.com/watch?v=E55ZjWm6wQ4&t=301s&ab_channel=MUMONS) (french conference about how the universe began)
 - [Etienne Klein about time](https://www.youtube.com/watch?v=DyVEU71Azno&t=2s) (french conference about time, can we travel in time etc)
+- [Etienne Klein about Einstein](https://www.youtube.com/watch?v=1y34Obv3OVo&ab_channel=USIEvents) (french conference at USI)
 - [Chistophe Galfard about universe origins](https://www.youtube.com/watch?v=1TJb72NwdQw&ab_channel=Espacedessciences) (french conference talking about how the universe began)
 
 <hr>
