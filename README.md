@@ -25,7 +25,7 @@
 
 ## Conferences
 
-### General stuff :
+### -->General stuff :
 
 - [Uncle bob's lessons](https://www.youtube.com/watch?v=7EmboKQH8lM&t=15s&ab_channel=UnityCoin) (6 videos about clean code, tests, ethics... )
 - [Elon Musk about climate](https://www.youtube.com/watch?v=BMskI6G9ty0&t=2757s&ab_channel=Universit%C3%A9Paris1Panth%C3%A9on-Sorbonne) (conference about the future of earth, carbon, climate...)
@@ -34,13 +34,13 @@
 - [Cédric Villani about maths](https://www.youtube.com/watch?v=rLFUnCUyPko&ab_channel=HECParis) (french conference about general uses of maths...)
 - [Etienne Klein why maths](https://www.youtube.com/watch?v=YQMhrVSR6X0&ab_channel=ObservatoireMidi-Pyr%C3%A9n%C3%A9es) (french conference, can we understand why maths are useful)
 
-### Artificial Intelligence :
+### -->Artificial Intelligence :
 
 - [Cédric Villani about AI](https://www.youtube.com/watch?v=0Ag9yA7MpQU&ab_channel=EPFIng%C3%A9nieurs) (french conference about AI)
 - [Yann Le Cun Deep learning 2015](https://www.youtube.com/watch?v=RgUcQceqC_Y&ab_channel=USIEvents) (lecture about deep learning at USI in FR)
 - [Yann Le Cun Deep learning 2018 update](https://www.youtube.com/watch?v=2WiPx6thH2E&ab_channel=USIEvents) (lecture about deep learning at USI in FR)
 
-### Physics :
+### -->Physics :
 
 - [Etienne Klein about death](https://www.youtube.com/watch?v=G7PBXyYPpmM&ab_channel=Dennissking) (french conference about the death from physics pov)
 - [Etienne Klein about Higgs boson](https://www.youtube.com/watch?v=KJQl--wHQSM&t=1s&ab_channel=Thinkerview) (french conference about higgs boson)
@@ -54,7 +54,7 @@
 
 ## Youtube channels
 
-### General stuff :
+### -->General stuff :
 
 - [Primer](https://www.youtube.com/channel/UCKzJFdi57J53Vr_BkTfN3uQ) (awesome simulation to explain concepts done in python)
 - [Science Etonnante](https://www.youtube.com/channel/UCaNlbnghtwlsGF-KzAFThqA) (one of the best science popularizer)
@@ -64,19 +64,19 @@
 - [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) (channel about a lot of stuff in computer science, some playlist about AI and ML)
 - [Javidx9](https://www.youtube.com/channel/UC-yuWVUplUJZvieEligKBkA) (interesting stuff like 3D rendering in terminal)
 
-### Artificial Intelligence :
+### -->Artificial Intelligence :
 
 - [Sentdex](https://www.youtube.com/c/sentdex/videos) (explaining how to build neural networks and how to use them)
 - [CodeBullet](https://www.youtube.com/channel/UC0e3QhIYukixgh5VVpKHH9Q) (funny guy using ai in games)
 - [Trackmania AIs](https://www.youtube.com/channel/UCh1zLfuN6F_X4eoNKCsyICA) (different machine learning algorithms in trackmania)
 - [Defend Intelligence](https://www.youtube.com/c/DefendIntelligence-tech/videos) (french youtube channel about AI/Data science)
 
-### Mathematics :
+### -->Mathematics :
 
 - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) (really good channel about mathematics and also some videos about AI, his animation are really cool)
 - [Numberphile](https://www.youtube.com/user/numberphile) (Youtube channel about maths, like computerphile)
 
-### Virtual Reality / Augmented Reality :
+### -->Virtual Reality / Augmented Reality :
 
 - [NiK & ETR VR](https://www.youtube.com/channel/UC7VIUA4-4WIehSlfGL2LszQ) (french youtube channel about VR)
 - [Dirty Biology](https://www.youtube.com/watch?v=_fNHOBCJ64k&ab_channel=DirtyBiology) (french channel about sciences, this video is about the brain and the future of VR)
