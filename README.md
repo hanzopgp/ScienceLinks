@@ -102,6 +102,8 @@
 
 - [The Origin of Species](https://www.amazon.fr/Charles-Darwins-Natural-Selection-Species/dp/0521348072) (famous Darwin's evolution book)
 - [Clean Code](https://www.amazon.fr/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) (Robert C. Martin's book about clean code)
+- [Anagrammes renversantes](https://www.placedeslibraires.fr/livre/9782081272217-anagrammes-renversantes-ou-le-sens-cache-du-monde-etienne-klein-jacques-perry-salkow/) (french book written by a physicist and a jazzman)
+- [Birth of a Theorem](https://www.amazon.fr/Birth-Theorem-Mathematical-C%C3%A9dric-Villani/dp/0099581973) (Cédric Villani explaining how research in maths feels)
 
 ### -->Artificial Intelligence :
 
