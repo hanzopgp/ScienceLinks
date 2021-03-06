@@ -94,6 +94,7 @@
 - [WIRED doc](https://www.youtube.com/watch?v=ZJixNvx9BAc&ab_channel=WIRED) (documentary about AI)
 - [AlphaGo](https://www.youtube.com/watch?v=WXuK6gekU1Y&ab_channel=DeepMind) (movie about DeepMind's AI winning against the best Go player)
 - [Melodysheep](https://www.youtube.com/watch?v=uD4izuDMUQA&ab_channel=melodysheep) (video about the future, big crunch/rip/freeze theory...)
+- [Arte doc](https://www.youtube.com/watch?v=6IGVqsnxCE0&ab_channel=ARTE) (documentary about the manufacture of ignorance)
 
 <hr>
 
