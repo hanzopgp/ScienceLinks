@@ -40,6 +40,7 @@
 - [Cédric Villani about AI](https://www.youtube.com/watch?v=0Ag9yA7MpQU&ab_channel=EPFIng%C3%A9nieurs) (french conference about AI)
 - [Yann Le Cun Deep learning 2015](https://www.youtube.com/watch?v=RgUcQceqC_Y&ab_channel=USIEvents) (lecture about deep learning at USI in FR)
 - [Yann Le Cun Deep learning 2018 update](https://www.youtube.com/watch?v=2WiPx6thH2E&ab_channel=USIEvents) (lecture about deep learning at USI in FR)
+- [Demis Hassabis about AI](https://www.youtube.com/watch?v=zYII3AOSgo8&ab_channel=Coll%C3%A8gedeFrance) (lecture at Collège de France about artificial intelligence)
 
 ### -->Physics :
 
