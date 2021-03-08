@@ -41,6 +41,7 @@
 - [Yann Le Cun Deep learning 2015](https://www.youtube.com/watch?v=RgUcQceqC_Y&ab_channel=USIEvents) (lecture about deep learning at USI in FR)
 - [Yann Le Cun Deep learning 2018 update](https://www.youtube.com/watch?v=2WiPx6thH2E&ab_channel=USIEvents) (lecture about deep learning at USI in FR)
 - [Demis Hassabis about AI](https://www.youtube.com/watch?v=zYII3AOSgo8&ab_channel=Coll%C3%A8gedeFrance) (lecture at Collège de France about artificial intelligence)
+- [Demis Hassabis about AI and creativity](https://www.youtube.com/watch?v=d-bvsJWmqlc&ab_channel=RoyalAcademyofArts) (lecture at Rohschild foundation)
 
 ### -->Physics :
 
