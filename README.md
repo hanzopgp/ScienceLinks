@@ -105,6 +105,8 @@
 [Multi-Label Classification](https://www.researchgate.net/publication/273859036_Multi-Label_Classification_An_Overview) (Machine learning, classifying...)
 [Attention is all you need](https://arxiv.org/pdf/1706.03762.pdf) (LSTM, Transformer...)
 
+<hr>
+
 ## Books
 
 ### -->General stuff :
