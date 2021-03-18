@@ -100,6 +100,11 @@
 
 <hr>
 
+## Papers
+
+[Multi-Label Classification](https://www.researchgate.net/publication/273859036_Multi-Label_Classification_An_Overview) (Machine learning, classifying...)
+[Attention is all you need](https://arxiv.org/pdf/1706.03762.pdf) (LSTM, Transformer...)
+
 ## Books
 
 ### -->General stuff :
@@ -143,6 +148,7 @@
 - [Draw your NN](http://alexlenail.me/NN-SVG/index.html) (tool to draw your nn online)
 - [Esoteric programming languages](https://esolangs.org/wiki////) (wikipage of slashes language)
 - [CryptoZombies](https://cryptozombies.io/) (one of the best tutorial to learn dapp, blockchain, solidity...)
+- [How I became an AI scientist](https://start.lesechos.fr/travailler-mieux/metiers-reconversion/comment-je-suis-devenu-chercheur-en-intelligence-artificielle-1174831) (interesting interview about an engineer who became university lecturer and researcher)
 
 <hr>
 
@@ -152,3 +158,5 @@
 - [WIRED 5 levels](https://www.youtube.com/playlist?list=PLibNZv5Zd0dyCoQ6f4pdXUFnpAIlKgm3N) (An expert explains a complex subject in five levels of complexity)
 - [Hyperbolica](https://www.youtube.com/watch?v=EMKLeS-Uq_8&ab_channel=CodeParade) (video about non-euclidean game)
 - [Language theory and compilation](https://www.youtube.com/watch?v=WbUpN4fHs_k&list=PLu008__K5BwEMnt6cyxTeYC7vMKmQ2fzo&index=1&ab_channel=AkimDemaille) (EPITA lecture playlist)
+- [Blockchain Idriss ABERKANE](https://www.youtube.com/watch?v=QY4gWjirYR4&ab_channel=Hasheur) (interview about the blockchain, economist pov)
+- [How to become a AI scientist](https://www.youtube.com/watch?v=-WEA2WO-t5s&ab_channel=Science-DrDufourOlivier) (some tips on what to learn)
