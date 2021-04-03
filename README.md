@@ -35,6 +35,7 @@
 - [Cédric Villani about maths](https://www.youtube.com/watch?v=rLFUnCUyPko&ab_channel=HECParis) (french conference about general uses of maths...)
 - [Etienne Klein why maths](https://www.youtube.com/watch?v=YQMhrVSR6X0&ab_channel=ObservatoireMidi-Pyr%C3%A9n%C3%A9es) (french conference, can we understand why maths are useful)
 - [Etienne Klein science philosphy lecture](https://www.youtube.com/watch?v=NA2XOTSTs8w&ab_channel=CentraleSup%C3%A9lec) (french conference about science philosophy and why you should read books)
+- [I let algorithms randomize my life](https://www.youtube.com/watch?v=eKkI6-HeWXo&ab_channel=TED) (TED talks about randomizing your life with algorithms)
 
 ### -->Artificial Intelligence :
 
