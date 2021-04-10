@@ -77,6 +77,7 @@
 - [Trackmania AIs](https://www.youtube.com/channel/UCh1zLfuN6F_X4eoNKCsyICA) (different machine learning algorithms in trackmania)
 - [Defend Intelligence](https://www.youtube.com/c/DefendIntelligence-tech/videos) (french youtube channel about AI/Data science)
 - [Thibault Neveu](https://www.youtube.com/channel/UCVso5UVvQeGAuwbksmA95iA) (french channel about neural networks)
+- [Lazy Programmer](https://www.youtube.com/c/LazyProgrammerX/videos) (videos about AI, LSTM...)
 
 ### -->Mathematics :
 
