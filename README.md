@@ -45,6 +45,7 @@
 - [Demis Hassabis about AI and creativity](https://www.youtube.com/watch?v=d-bvsJWmqlc&ab_channel=RoyalAcademyofArts) (same as the last one, start at 29:00)
 - [Deepmind AlphaZero](youtube.com/watch?v=Wujy7OzvdJk&ab_channel=TheArtificialIntelligenceChannel) (mastering Games Without Human Knowledge)
 - [LSTM is dead, Long Live Transformers](https://www.youtube.com/watch?v=S27pHKBEp30&ab_channel=SeattleAppliedDeepLearning) (lecture about RNN, LSTM, Transformers)
+- [Mystères mathématiques des DNN](https://www.youtube.com/watch?v=UJwBx7eqgBw&ab_channel=Maisondesmath%C3%A9matiquesetdel%27informatiqueLyon) (Stéphane Mallat conference about Maths and AI)
 
 ### -->Physics :
 
