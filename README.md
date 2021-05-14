@@ -56,6 +56,7 @@
 - [Etienne Klein about Einstein](https://www.youtube.com/watch?v=1y34Obv3OVo&ab_channel=USIEvents) (french conference at USI about Einstein's life and thoughts)
 - [Etienne Klein about quantum physics](https://www.youtube.com/watch?v=wUFNHVnnyLc&t=46s&ab_channel=USIEvents) (french conference from quantum physics to quantum computing)
 - [Chistophe Galfard about universe origins](https://www.youtube.com/watch?v=1TJb72NwdQw&ab_channel=Espacedessciences) (french conference talking about how the universe began)
+- [Richard Feynman's messenger lectures](https://www.microsoft.com/en-us/research/project/tuva-richard-feynman/#!1-physical-law) (famous 1964 conference about physics and maths)
 
 <hr>
 
