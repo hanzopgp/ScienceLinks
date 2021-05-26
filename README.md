@@ -71,6 +71,7 @@
 - [Computerphile](https://www.youtube.com/user/Computerphile) (tons of videos about very various topics)
 - [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) (channel about a lot of stuff in computer science, some playlist about AI and ML)
 - [Javidx9](https://www.youtube.com/channel/UC-yuWVUplUJZvieEligKBkA) (interesting stuff like 3D rendering in terminal)
+- [Fouloscopie](https://www.youtube.com/c/Fouloscopie) (french videos about fouloscopy)
 
 ### -->Artificial Intelligence :
 
