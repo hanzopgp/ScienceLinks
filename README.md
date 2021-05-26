@@ -132,6 +132,7 @@
 - [When the machin learns](https://www.amazon.fr/Quand-machine-apprend-artificiels-lapprentissage/dp/2738149316) (french machine learning book)
 - [Deep Learning, A practicioners approach](https://www.amazon.com/Deep-Learning-Practitioners-Josh-Patterson/dp/1491914254) (very complete book about deep learning)
 - [Neural network from scratch](https://nnfs.io/) (how to build a neural network from scratch)
+- [Artificial Intelligence 4th edition](http://aima.cs.berkeley.edu/) (one of the best AI book)
 
 ### -->Physics :
 
