@@ -181,3 +181,4 @@
 - [Language theory and compilation](https://www.youtube.com/watch?v=WbUpN4fHs_k&list=PLu008__K5BwEMnt6cyxTeYC7vMKmQ2fzo&index=1&ab_channel=AkimDemaille) (EPITA lecture playlist)
 - [Blockchain Idriss ABERKANE](https://www.youtube.com/watch?v=QY4gWjirYR4&ab_channel=Hasheur) (interview about the blockchain, economist pov)
 - [How to become a AI scientist](https://www.youtube.com/watch?v=-WEA2WO-t5s&ab_channel=Science-DrDufourOlivier) (some tips on what to learn)
+- [Quantum computers intro](https://www.youtube.com/watch?v=jHoEjvuPoB8&ab_channel=QuantaMagazineQuantaMagazine) (small video about quantum computers)
