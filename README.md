@@ -103,7 +103,6 @@
 - [Ericksonian hypnosis](https://www.youtube.com/watch?v=InkHhnNskZ4&ab_channel=ARCHE) (french hypnosis demonstration from [Arche hypnose](https://www.arche-hypnose.com/))
 - [WIRED doc](https://www.youtube.com/watch?v=ZJixNvx9BAc&ab_channel=WIRED) (documentary about AI)
 - [AlphaGo](https://www.youtube.com/watch?v=WXuK6gekU1Y&ab_channel=DeepMind) (movie about DeepMind's AI winning against the best Go player)
-- [Melodysheep](https://www.youtube.com/watch?v=uD4izuDMUQA&ab_channel=melodysheep) (video about the future, big crunch/rip/freeze theory...)
 - [Arte doc](https://www.youtube.com/watch?v=6IGVqsnxCE0&ab_channel=ARTE) (documentary about the manufacture of ignorance)
 
 <hr>
@@ -125,6 +124,7 @@
 - [Clean Code](https://www.amazon.fr/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) (Robert C. Martin's book about clean code)
 - [Anagrammes renversantes](https://www.placedeslibraires.fr/livre/9782081272217-anagrammes-renversantes-ou-le-sens-cache-du-monde-etienne-klein-jacques-perry-salkow/) (french book written by a physicist and a jazzman)
 - [Birth of a Theorem](https://www.amazon.fr/Birth-Theorem-Mathematical-C%C3%A9dric-Villani/dp/0099581973) (Cédric Villani explaining how research in maths feels)
+- [The art of doing science](https://www.amazon.fr/Art-Doing-Science-Engineering-Learning-ebook/dp/B088TMLQDC) (Richard Hamming book about research)
 
 ### -->Artificial Intelligence :
 
@@ -183,3 +183,4 @@
 - [How to become a AI scientist](https://www.youtube.com/watch?v=-WEA2WO-t5s&ab_channel=Science-DrDufourOlivier) (some tips on what to learn)
 - [Quantum computers intro](https://www.youtube.com/watch?v=jHoEjvuPoB8&ab_channel=QuantaMagazineQuantaMagazine) (small video about quantum computers)
 - [The longest running evolution](https://www.youtube.com/watch?v=w4sLAQvEH-M&ab_channel=VeritasiumVeritasiumValid%C3%A9) (documentary about bacteria evolution)
+- [Melodysheep](https://www.youtube.com/watch?v=uD4izuDMUQA&ab_channel=melodysheep) (video about the future, big crunch/rip/freeze theory...)
