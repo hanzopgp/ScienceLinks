@@ -140,6 +140,7 @@
 - [Chronos](https://editions.flammarion.com/les-tactiques-de-chronos/9782080206244) (Etienne Klein about time in physics)
 - [Universe origins](https://editions.flammarion.com/discours-sur-l-origine-de-l-univers/9782081228795) (Etienne Klein about universe's origin)
 - [Black holes and time distorsion](https://editions.flammarion.com/trous-noirs-et-distorsions-du-temps/9782081224964) (Kip S. Thorne's book about black holes)
+- [The nature of physics](https://www.seuil.com/ouvrage/la-nature-de-la-physique-richard-feynman/9782020056588) (Feynman messenger lectures book)
 
 <hr>
 
