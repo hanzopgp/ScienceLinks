@@ -141,6 +141,7 @@
 - [Universe origins](https://editions.flammarion.com/discours-sur-l-origine-de-l-univers/9782081228795) (Etienne Klein about universe's origin)
 - [Black holes and time distorsion](https://editions.flammarion.com/trous-noirs-et-distorsions-du-temps/9782081224964) (Kip S. Thorne's book about black holes)
 - [The nature of physics](https://www.seuil.com/ouvrage/la-nature-de-la-physique-richard-feynman/9782020056588) (Feynman messenger lectures book)
+- [Quantum physics and world representation](https://www.seuil.com/ouvrage/physique-quantique-et-representation-du-monde-erwin-schrodinger/9782020133197) (Erwin Schrodinger book)
 
 <hr>
 
