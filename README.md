@@ -84,6 +84,7 @@
 - [Defend Intelligence](https://www.youtube.com/c/DefendIntelligence-tech/videos) (french youtube channel about AI/Data science)
 - [Thibault Neveu](https://www.youtube.com/channel/UCVso5UVvQeGAuwbksmA95iA) (french channel about neural networks)
 - [Lazy Programmer](https://www.youtube.com/c/LazyProgrammerX/videos) (videos about AI, LSTM...)
+- [What's AI](https://www.youtube.com/channel/UCUzGQrN-lyyc0BWTYoJM_Sg) (papers, articles, news about AI)
 
 ### -->Mathematics :
 
