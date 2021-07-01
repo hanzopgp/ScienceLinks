@@ -68,10 +68,13 @@
 - [Science Etonnante](https://www.youtube.com/channel/UCaNlbnghtwlsGF-KzAFThqA) (one of the best science popularizer)
 - [Short Circuit](https://www.youtube.com/channel/UCdBK94H6oZT2Q7l0-b0xmMg) (secondary channel of Linus Tech Tips)
 - [Linus Tech Tips](https://www.youtube.com/c/LinusTechTips) (channel about hardware and most recent technologies)
+- [Fouloscopie](https://www.youtube.com/c/Fouloscopie) (french videos about fouloscopy)
+
+### -->Computer science
+
 - [Computerphile](https://www.youtube.com/user/Computerphile) (tons of videos about very various topics)
 - [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) (channel about a lot of stuff in computer science, some playlist about AI and ML)
 - [Javidx9](https://www.youtube.com/channel/UC-yuWVUplUJZvieEligKBkA) (interesting stuff like 3D rendering in terminal)
-- [Fouloscopie](https://www.youtube.com/c/Fouloscopie) (french videos about fouloscopy)
 
 ### -->Artificial Intelligence :
 
@@ -159,8 +162,12 @@
 ### -->General
 
 - [Information is Beautiful](https://informationisbeautiful.net/) (nice data visualisation website)
-- [Computer science's map](https://www.flickr.com/photos/95869671@N08/36231833334) (the different chapters of computer science)
 - [Mathematics' map](https://www.flickr.com/photos/95869671@N08/32264483720) (the different chapters of mathematics)
+- [Stanislas Dehaene](https://www.college-de-france.fr/site/stanislas-dehaene/index.htm) (Free cognitive psychology course)
+
+### -->Computer science
+
+- [Computer science's map](https://www.flickr.com/photos/95869671@N08/36231833334) (the different chapters of computer science)
 - [CryptoZombies](https://cryptozombies.io/) (one of the best tutorial to learn dapp, blockchain, solidity...)
 - [Esoteric programming languages](https://esolangs.org/wiki////) (wikipage of slashes language)
 
@@ -172,7 +179,7 @@
 - [Different types of NN](https://towardsdatascience.com/types-of-neural-network-and-what-each-one-does-explained-d9b4c0ed63a1) (article about MLP/CNN/RNN...)
 - [Draw your NN](http://alexlenail.me/NN-SVG/index.html) (tool to draw your nn online)
 - [How I became an AI scientist](https://start.lesechos.fr/travailler-mieux/metiers-reconversion/comment-je-suis-devenu-chercheur-en-intelligence-artificielle-1174831) (interesting interview about an engineer who became university lecturer and researcher)
-- [Stéphane Mallat Collège de France](https://www.college-de-france.fr/site/stephane-mallat/_course.htm) (Free AI course)
+- [Stéphane Mallat Collège de France](https://www.college-de-france.fr/site/stephane-mallat/_course.htm) (Free data science course)
 
 <hr>
 
