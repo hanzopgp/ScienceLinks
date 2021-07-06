@@ -9,7 +9,7 @@
 5. [Papers](#papers-)
 6. [Books](#books)
 7. [Magazines](#magazines)
-8. [Websites](#webites)
+8. [Websites](#webites
 9. [Solo videos](#solo-videos)
 
 <hr>
