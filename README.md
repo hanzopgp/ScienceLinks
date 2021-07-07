@@ -7,7 +7,7 @@
 3. [Youtube channel](#youtube-channels)
 4. [Documentaries and interviews](#documentaries-and-interviews)
 5. [Papers](#papers-)
-6. [Books](#books)*
+6. [Books](#books)
 7. [Magazines](#magazines)
 8. [Websites](#webites)
 9. [Solo videos](#solo-videos)
