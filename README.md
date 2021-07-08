@@ -165,13 +165,14 @@
 
 - [Information is Beautiful](https://informationisbeautiful.net/) (nice data visualisation website)
 - [Mathematics' map](https://www.flickr.com/photos/95869671@N08/32264483720) (the different chapters of mathematics)
-- [Stanislas Dehaene](https://www.college-de-france.fr/site/stanislas-dehaene/index.htm) (Free cognitive psychology course)
+- [Stanislas Dehaene Collège de France](https://www.college-de-france.fr/site/stanislas-dehaene/index.htm) (Free cognitive psychology course)
 
 ### -->Computer science
 
 - [Computer science's map](https://www.flickr.com/photos/95869671@N08/36231833334) (the different chapters of computer science)
 - [CryptoZombies](https://cryptozombies.io/) (one of the best tutorial to learn dapp, blockchain, solidity...)
 - [Esoteric programming languages](https://esolangs.org/wiki////) (wikipage of slashes language)
+- [Quantum algorithms Collège de France](https://www.college-de-france.fr/site/frederic-magniez/course-2020-2021.htm) (Frederic Magniez course about quantum computing)
 
 ### -->Artificial Intelligence :
 
