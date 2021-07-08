@@ -11,6 +11,7 @@
 7. [Magazines](#magazines)
 8. [Websites](#webites)
 9. [Solo videos](#solo-videos)
+10. [Courses](#courses)
 
 <hr>
 
@@ -197,3 +198,6 @@
 - [Quantum computers intro](https://www.youtube.com/watch?v=jHoEjvuPoB8&ab_channel=QuantaMagazineQuantaMagazine) (small video about quantum computers)
 - [The longest running evolution](https://www.youtube.com/watch?v=w4sLAQvEH-M&ab_channel=VeritasiumVeritasiumValid%C3%A9) (documentary about bacteria evolution)
 - [Melodysheep](https://www.youtube.com/watch?v=uD4izuDMUQA&ab_channel=melodysheep) (video about the future, big crunch/rip/freeze theory...)
+
+## Courses
+
