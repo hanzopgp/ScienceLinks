@@ -138,6 +138,7 @@
 - [Deep Learning, A practicioners approach](https://www.amazon.com/Deep-Learning-Practitioners-Josh-Patterson/dp/1491914254) (very complete book about deep learning)
 - [Neural network from scratch](https://nnfs.io/) (how to build a neural network from scratch)
 - [Artificial Intelligence 4th edition](http://aima.cs.berkeley.edu/) (one of the best AI book)
+- [Deep learning book](https://www.deeplearningbook.org/) (deep learning book, Ian Goodfellow and Yoshua Bengio and Aaron Courville)
 
 ### -->Physics :
 
