@@ -166,14 +166,12 @@
 
 - [Information is Beautiful](https://informationisbeautiful.net/) (nice data visualisation website)
 - [Mathematics' map](https://www.flickr.com/photos/95869671@N08/32264483720) (the different chapters of mathematics)
-- [Stanislas Dehaene Collège de France](https://www.college-de-france.fr/site/stanislas-dehaene/index.htm) (Free cognitive psychology course)
 
 ### -->Computer science
 
 - [Computer science's map](https://www.flickr.com/photos/95869671@N08/36231833334) (the different chapters of computer science)
 - [CryptoZombies](https://cryptozombies.io/) (one of the best tutorial to learn dapp, blockchain, solidity...)
 - [Esoteric programming languages](https://esolangs.org/wiki////) (wikipage of slashes language)
-- [Quantum algorithms Collège de France](https://www.college-de-france.fr/site/frederic-magniez/course-2020-2021.htm) (Frederic Magniez course about quantum computing)
 
 ### -->Artificial Intelligence :
 
@@ -183,7 +181,6 @@
 - [Different types of NN](https://towardsdatascience.com/types-of-neural-network-and-what-each-one-does-explained-d9b4c0ed63a1) (article about MLP/CNN/RNN...)
 - [Draw your NN](http://alexlenail.me/NN-SVG/index.html) (tool to draw your nn online)
 - [How I became an AI scientist](https://start.lesechos.fr/travailler-mieux/metiers-reconversion/comment-je-suis-devenu-chercheur-en-intelligence-artificielle-1174831) (interesting interview about an engineer who became university lecturer and researcher)
-- [Stéphane Mallat Collège de France](https://www.college-de-france.fr/site/stephane-mallat/_course.htm) (Free data science course)
 
 <hr>
 
@@ -201,3 +198,6 @@
 
 ## Courses
 
+- [Quantum algorithms Collège de France](https://www.college-de-france.fr/site/frederic-magniez/course-2020-2021.htm) (Frederic Magniez course about quantum computing)
+- [Stéphane Mallat Collège de France](https://www.college-de-france.fr/site/stephane-mallat/_course.htm) (Free data science course)
+- [Stanislas Dehaene Collège de France](https://www.college-de-france.fr/site/stanislas-dehaene/index.htm) (Free cognitive psychology course)
