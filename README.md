@@ -196,6 +196,8 @@
 - [The longest running evolution](https://www.youtube.com/watch?v=w4sLAQvEH-M&ab_channel=VeritasiumVeritasiumValid%C3%A9) (documentary about bacteria evolution)
 - [Melodysheep](https://www.youtube.com/watch?v=uD4izuDMUQA&ab_channel=melodysheep) (video about the future, big crunch/rip/freeze theory...)
 
+<hr>
+
 ## Courses
 
 - [Quantum algorithms Collège de France](https://www.college-de-france.fr/site/frederic-magniez/course-2020-2021.htm) (Frederic Magniez course about quantum computing)
