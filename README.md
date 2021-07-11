@@ -204,3 +204,4 @@
 - [Quantum algorithms Collège de France](https://www.college-de-france.fr/site/frederic-magniez/course-2020-2021.htm) (Frederic Magniez course about quantum computing)
 - [Stéphane Mallat Collège de France](https://www.college-de-france.fr/site/stephane-mallat/_course.htm) (Free data science course)
 - [Stanislas Dehaene Collège de France](https://www.college-de-france.fr/site/stanislas-dehaene/index.htm) (Free cognitive psychology course)
+- [Deep learning lazy programer](https://youtube.com/playlist?list=PLxgDUj5eygKmlhteKFiXIIhdqmdD2TwVM) (Deep learning series on youtube)
