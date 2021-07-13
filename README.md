@@ -132,6 +132,7 @@
 - [Birth of a Theorem](https://www.amazon.fr/Birth-Theorem-Mathematical-C%C3%A9dric-Villani/dp/0099581973) (Cédric Villani explaining how research in maths feels)
 - [The art of doing science](https://www.amazon.fr/Art-Doing-Science-Engineering-Learning-ebook/dp/B088TMLQDC) (Richard Hamming book about research)
 - [La recherche](https://www.larecherche.fr/) (French magazine about current research in many fields)
+- [Essential Cell Biology](https://wwnorton.com/books/9780393680362) (Very complete book about cell biology)
 
 ### -->Artificial Intelligence :
 
