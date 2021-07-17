@@ -21,7 +21,7 @@
 <p align="center"><img width="80%" src="donut.png"><br><i>Artist : https://www.flickr.com/photos/95869671@N08/</i></p>
 <br>
 
->This is a list of links I want to keep, channels I follow on youtube, books I've read... I want to share those in case someone is looking for informations. This list will mostly contains science stuff, mainly maths, physics and computer science.
+>This is a list of links I want to keep, channels I follow on youtube, books I've read... I want to share those in case someone is looking for informations. This list will mostly contains science stuff, mainly m, physics and computer science.
 
 <hr>
 
