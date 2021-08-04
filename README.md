@@ -199,6 +199,7 @@
 - [The longest running evolution](https://www.youtube.com/watch?v=w4sLAQvEH-M&ab_channel=VeritasiumVeritasiumValid%C3%A9) (documentary about bacteria evolution)
 - [Melodysheep](https://www.youtube.com/watch?v=uD4izuDMUQA&ab_channel=melodysheep) (video about the future, big crunch/rip/freeze theory...)
 - [Futurama sciences](https://www.youtube.com/watch?v=dRS4eatZM9M&t=9s&ab_channel=ElJj) (video about the physics, maths, computer science easter eggs in futurama)
+- [Collatz conjecture 3x+1](https://www.youtube.com/watch?v=094y1Z2wpJg&ab_channel=Veritasium) (video about the collatz conjecture)
 
 <hr>
 
