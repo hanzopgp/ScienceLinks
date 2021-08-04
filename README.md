@@ -6,8 +6,8 @@
 2. [Books](#books)
 3. [Conferences](#conferences)
 4. [Youtube channel](#youtube-channels)
-8. [Websites](#webites)
 9. [Solo videos](#solo-videos)
+8. [Websites](#webites)
 6. [Documentaries and interviews](#documentaries-and-interviews)
 7. [Papers](#papers-)
 8. [Magazines](#magazines)
@@ -134,30 +134,6 @@
 
 <hr>
 
-## Websites
-
-### -->General
-
-- [Information is Beautiful](https://informationisbeautiful.net/) (nice data visualisation website)
-- [Mathematics' map](https://www.flickr.com/photos/95869671@N08/32264483720) (the different chapters of mathematics)
-
-### -->Computer science
-
-- [Computer science's map](https://www.flickr.com/photos/95869671@N08/36231833334) (the different chapters of computer science)
-- [CryptoZombies](https://cryptozombies.io/) (one of the best tutorial to learn dapp, blockchain, solidity...)
-- [Esoteric programming languages](https://esolangs.org/wiki////) (wikipage of slashes language)
-
-### -->Artificial Intelligence :
-
-- [Google Colab](https://colab.research.google.com/) (notebooks hosted by google, able to use their GPUs and TPUs)
-- [Kaggle](https://www.kaggle.com/) (notebooks hosted by google, oriented AI, easy dataset manager...)
-- [Sentdex's animation](https://nnfs.io/neural_network_animations) (huge list of links explaining tons of AI concept using animations)
-- [Different types of NN](https://towardsdatascience.com/types-of-neural-network-and-what-each-one-does-explained-d9b4c0ed63a1) (article about MLP/CNN/RNN...)
-- [Draw your NN](http://alexlenail.me/NN-SVG/index.html) (tool to draw your nn online)
-- [How I became an AI scientist](https://start.lesechos.fr/travailler-mieux/metiers-reconversion/comment-je-suis-devenu-chercheur-en-intelligence-artificielle-1174831) (interesting interview about an engineer who became university lecturer and researcher)
-
-<hr>
-
 ## Solo videos
 
 ### -->General stuff :
@@ -179,6 +155,30 @@
 
 - [Futurama sciences](https://www.youtube.com/watch?v=dRS4eatZM9M&t=9s&ab_channel=ElJj) (video about the physics, maths, computer science easter eggs in futurama)
 - [Collatz conjecture 3x+1](https://www.youtube.com/watch?v=094y1Z2wpJg&ab_channel=Veritasium) (video about the collatz conjecture)
+
+<hr>
+
+## Websites
+
+### -->General
+
+- [Information is Beautiful](https://informationisbeautiful.net/) (nice data visualisation website)
+- [Mathematics' map](https://www.flickr.com/photos/95869671@N08/32264483720) (the different chapters of mathematics)
+
+### -->Computer science
+
+- [Computer science's map](https://www.flickr.com/photos/95869671@N08/36231833334) (the different chapters of computer science)
+- [CryptoZombies](https://cryptozombies.io/) (one of the best tutorial to learn dapp, blockchain, solidity...)
+- [Esoteric programming languages](https://esolangs.org/wiki////) (wikipage of slashes language)
+
+### -->Artificial Intelligence :
+
+- [Google Colab](https://colab.research.google.com/) (notebooks hosted by google, able to use their GPUs and TPUs)
+- [Kaggle](https://www.kaggle.com/) (notebooks hosted by google, oriented AI, easy dataset manager...)
+- [Sentdex's animation](https://nnfs.io/neural_network_animations) (huge list of links explaining tons of AI concept using animations)
+- [Different types of NN](https://towardsdatascience.com/types-of-neural-network-and-what-each-one-does-explained-d9b4c0ed63a1) (article about MLP/CNN/RNN...)
+- [Draw your NN](http://alexlenail.me/NN-SVG/index.html) (tool to draw your nn online)
+- [How I became an AI scientist](https://start.lesechos.fr/travailler-mieux/metiers-reconversion/comment-je-suis-devenu-chercheur-en-intelligence-artificielle-1174831) (interesting interview about an engineer who became university lecturer and researcher)
 
 <hr>
 
