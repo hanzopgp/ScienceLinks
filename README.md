@@ -6,11 +6,11 @@
 2. [Books](#books)
 3. [Conferences](#conferences)
 4. [Youtube channel](#youtube-channels)
-5. [Documentaries and interviews](#documentaries-and-interviews)
-6. [Papers](#papers-)
-7. [Magazines](#magazines)
 8. [Websites](#webites)
 9. [Solo videos](#solo-videos)
+6. [Documentaries and interviews](#documentaries-and-interviews)
+7. [Papers](#papers-)
+8. [Magazines](#magazines)
 10. [Courses](#courses)
 
 <hr>
@@ -134,35 +134,6 @@
 
 <hr>
 
-## Documentaries and interviews
-
-- [Elon Musk](https://www.youtube.com/watch?v=_t6CEHzjYrc&ab_channel=DocumentaryCentral) (documentary about Elon Musk's companies)
-- [Xavier Niel](https://www.youtube.com/watch?v=8SFyskuqZLA&ab_channel=LCP) (Xavier Niel interview about his career)
-- [Jensky doc](https://www.youtube.com/watch?v=Wj-fec4a3Ps&ab_channel=Jensky) (french documentary about dark energy & matter)
-- [Ericksonian hypnosis](https://www.youtube.com/watch?v=InkHhnNskZ4&ab_channel=ARCHE) (french hypnosis demonstration from [Arche hypnose](https://www.arche-hypnose.com/))
-- [WIRED doc](https://www.youtube.com/watch?v=ZJixNvx9BAc&ab_channel=WIRED) (documentary about AI)
-- [AlphaGo](https://www.youtube.com/watch?v=WXuK6gekU1Y&ab_channel=DeepMind) (movie about DeepMind's AI winning against the best Go player)
-- [Arte doc](https://www.youtube.com/watch?v=6IGVqsnxCE0&ab_channel=ARTE) (documentary about the manufacture of ignorance)
-
-<hr>
-
-## Papers
-
-- [Multi-Label Classification](https://www.researchgate.net/publication/273859036_Multi-Label_Classification_An_Overview) (Machine learning, classifying...)
-- [Attention is all you need](https://arxiv.org/pdf/1706.03762.pdf) (Transformers)
-- [An image is worth 16x16 word](https://arxiv.org/pdf/2010.11929.pdf) (Transformers for image recognition)
-- [MLP Mixer](https://arxiv.org/pdf/2105.01601v1.pdf) (MLP architecture for vision)
-
-<hr>
-
-## Magazines
-
-- [Quantum magazine](https://www.youtube.com/channel/UCTpmmkp1E4nmZqWPS-dl5bg) (interesting science videos)
-- [Two minute papers](https://www.youtube.com/user/keeroyz) (channel about new technologies, especialy in AI)
-- [Neura Pod](https://www.youtube.com/c/NeuraPod) (youtube channel about neuralink news)
-
-<hr>
-
 ## Websites
 
 ### -->General
@@ -208,6 +179,35 @@
 
 - [Futurama sciences](https://www.youtube.com/watch?v=dRS4eatZM9M&t=9s&ab_channel=ElJj) (video about the physics, maths, computer science easter eggs in futurama)
 - [Collatz conjecture 3x+1](https://www.youtube.com/watch?v=094y1Z2wpJg&ab_channel=Veritasium) (video about the collatz conjecture)
+
+<hr>
+
+## Documentaries and interviews
+
+- [Elon Musk](https://www.youtube.com/watch?v=_t6CEHzjYrc&ab_channel=DocumentaryCentral) (documentary about Elon Musk's companies)
+- [Xavier Niel](https://www.youtube.com/watch?v=8SFyskuqZLA&ab_channel=LCP) (Xavier Niel interview about his career)
+- [Jensky doc](https://www.youtube.com/watch?v=Wj-fec4a3Ps&ab_channel=Jensky) (french documentary about dark energy & matter)
+- [Ericksonian hypnosis](https://www.youtube.com/watch?v=InkHhnNskZ4&ab_channel=ARCHE) (french hypnosis demonstration from [Arche hypnose](https://www.arche-hypnose.com/))
+- [WIRED doc](https://www.youtube.com/watch?v=ZJixNvx9BAc&ab_channel=WIRED) (documentary about AI)
+- [AlphaGo](https://www.youtube.com/watch?v=WXuK6gekU1Y&ab_channel=DeepMind) (movie about DeepMind's AI winning against the best Go player)
+- [Arte doc](https://www.youtube.com/watch?v=6IGVqsnxCE0&ab_channel=ARTE) (documentary about the manufacture of ignorance)
+
+<hr>
+
+## Papers
+
+- [Multi-Label Classification](https://www.researchgate.net/publication/273859036_Multi-Label_Classification_An_Overview) (Machine learning, classifying...)
+- [Attention is all you need](https://arxiv.org/pdf/1706.03762.pdf) (Transformers)
+- [An image is worth 16x16 word](https://arxiv.org/pdf/2010.11929.pdf) (Transformers for image recognition)
+- [MLP Mixer](https://arxiv.org/pdf/2105.01601v1.pdf) (MLP architecture for vision)
+
+<hr>
+
+## Magazines
+
+- [Quantum magazine](https://www.youtube.com/channel/UCTpmmkp1E4nmZqWPS-dl5bg) (interesting science videos)
+- [Two minute papers](https://www.youtube.com/user/keeroyz) (channel about new technologies, especialy in AI)
+- [Neura Pod](https://www.youtube.com/c/NeuraPod) (youtube channel about neuralink news)
 
 <hr>
 
