@@ -141,7 +141,6 @@
 - [3D VR data visualization](https://www.youtube.com/watch?v=bkPAJ8aP89U&ab_channel=GregBahm) (Video about reddit/place and its data)
 - [WIRED 5 levels](https://www.youtube.com/playlist?list=PLibNZv5Zd0dyCoQ6f4pdXUFnpAIlKgm3N) (An expert explains a complex subject in five levels of complexity)
 - [Blockchain Idriss ABERKANE](https://www.youtube.com/watch?v=QY4gWjirYR4&ab_channel=Hasheur) (interview about the blockchain, economist pov)
-- [The longest running evolution](https://www.youtube.com/watch?v=w4sLAQvEH-M&ab_channel=VeritasiumVeritasiumValid%C3%A9) (documentary about bacteria evolution)
 - [Melodysheep](https://www.youtube.com/watch?v=uD4izuDMUQA&ab_channel=melodysheep) (video about the future, big crunch/rip/freeze theory...)
 
 ### -->Computer science :
@@ -150,24 +149,26 @@
 - [Hyperbolica](https://www.youtube.com/watch?v=EMKLeS-Uq_8&ab_channel=CodeParade) (video about non-euclidean game)
 - [Quantum computers intro](https://www.youtube.com/watch?v=jHoEjvuPoB8&ab_channel=QuantaMagazineQuantaMagazine) (small video about quantum computers)
 - [How to become a AI scientist](https://www.youtube.com/watch?v=-WEA2WO-t5s&ab_channel=Science-DrDufourOlivier) (some tips on what to learn)
+- [Computer science's map](https://www.youtube.com/watch?v=SzJ46YA_RaA&ab_channel=DoS-DomainofScience) (the different chapters of computer science)
 
 ### -->Mathematics :
 
 - [Futurama sciences](https://www.youtube.com/watch?v=dRS4eatZM9M&t=9s&ab_channel=ElJj) (video about the physics, maths, computer science easter eggs in futurama)
 - [Collatz conjecture 3x+1](https://www.youtube.com/watch?v=094y1Z2wpJg&ab_channel=Veritasium) (video about the collatz conjecture)
+- [Mathematics' map](https://www.youtube.com/watch?v=OmJ-4B-mS-Y&ab_channel=DoS-DomainofScience) (the different chapters of mathematics)
+
+### -->Biology :
+
+- [The longest running evolution](https://www.youtube.com/watch?v=w4sLAQvEH-M&ab_channel=VeritasiumVeritasiumValid%C3%A9) (documentary about bacteria evolution)
+- [Map of Biology](https://www.youtube.com/watch?v=wENhHnJI1ys&ab_channel=DoS-DomainofScience) (the different chapters of biology)
 
 <hr>
 
 ## Websites
 
-### -->General
+### -->General stuff :
 
 - [Information is Beautiful](https://informationisbeautiful.net/) (nice data visualisation website)
-- [Mathematics' map](https://www.flickr.com/photos/95869671@N08/32264483720) (the different chapters of mathematics)
-
-### -->Computer science
-
-- [Computer science's map](https://www.flickr.com/photos/95869671@N08/36231833334) (the different chapters of computer science)
 - [CryptoZombies](https://cryptozombies.io/) (one of the best tutorial to learn dapp, blockchain, solidity...)
 - [Esoteric programming languages](https://esolangs.org/wiki////) (wikipage of slashes language)
 
