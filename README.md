@@ -3,11 +3,11 @@
 ## Table of contents
 
 1. [Presentation](#presentation)
-2. [Conferences](#conferences)
-3. [Youtube channel](#youtube-channels)
-4. [Documentaries and interviews](#documentaries-and-interviews)
-5. [Papers](#papers-)
-6. [Books](#books)
+2. [Books](#books)
+3. [Conferences](#conferences)
+4. [Youtube channel](#youtube-channels)
+5. [Documentaries and interviews](#documentaries-and-interviews)
+6. [Papers](#papers-)
 7. [Magazines](#magazines)
 8. [Websites](#webites)
 9. [Solo videos](#solo-videos)
