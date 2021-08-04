@@ -25,6 +25,38 @@
 
 <hr>
 
+## Books
+
+### -->General stuff :
+
+- [The Origin of Species](https://www.amazon.fr/Charles-Darwins-Natural-Selection-Species/dp/0521348072) (famous Darwin's evolution book)
+- [Clean Code](https://www.amazon.fr/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) (Robert C. Martin's book about clean code)
+- [Anagrammes renversantes](https://www.placedeslibraires.fr/livre/9782081272217-anagrammes-renversantes-ou-le-sens-cache-du-monde-etienne-klein-jacques-perry-salkow/) (french book written by a physicist and a jazzman)
+- [Birth of a Theorem](https://www.amazon.fr/Birth-Theorem-Mathematical-C%C3%A9dric-Villani/dp/0099581973) (Cédric Villani explaining how research in maths feels)
+- [The art of doing science](https://www.amazon.fr/Art-Doing-Science-Engineering-Learning-ebook/dp/B088TMLQDC) (Richard Hamming book about research)
+- [La recherche](https://www.larecherche.fr/) (French magazine about current research in many fields)
+- [Essential Cell Biology](https://wwnorton.com/books/9780393680362) (Very complete book about cell biology)
+
+### -->Artificial Intelligence :
+
+- [The most beautiful story of intelligence](https://www.amazon.fr/Plus-Belle-Histoire-lintelligence/dp/2221221109) (book about intelligence in general from a historical perspective)
+- [When the machin learns](https://www.amazon.fr/Quand-machine-apprend-artificiels-lapprentissage/dp/2738149316) (french machine learning book)
+- [Deep Learning, A practicioners approach](https://www.amazon.com/Deep-Learning-Practitioners-Josh-Patterson/dp/1491914254) (very complete book about deep learning)
+- [Neural network from scratch](https://nnfs.io/) (how to build a neural network from scratch)
+- [Artificial Intelligence 4th edition](http://aima.cs.berkeley.edu/) (one of the best AI book)
+- [Deep learning book](https://www.deeplearningbook.org/) (deep learning book, Ian Goodfellow and Yoshua Bengio and Aaron Courville)
+
+### -->Physics :
+
+- [Time never rings twice](https://editions.flammarion.com/le-facteur-temps-ne-sonne-jamais-deux-fois/9782081391567) (Etienne Klein about time in physics)
+- [Chronos](https://editions.flammarion.com/les-tactiques-de-chronos/9782080206244) (Etienne Klein about time in physics)
+- [Universe origins](https://editions.flammarion.com/discours-sur-l-origine-de-l-univers/9782081228795) (Etienne Klein about universe's origin)
+- [Black holes and time distorsion](https://editions.flammarion.com/trous-noirs-et-distorsions-du-temps/9782081224964) (Kip S. Thorne's book about black holes)
+- [The nature of physics](https://www.seuil.com/ouvrage/la-nature-de-la-physique-richard-feynman/9782020056588) (Feynman messenger lectures book)
+- [Quantum physics and world representation](https://www.seuil.com/ouvrage/physique-quantique-et-representation-du-monde-erwin-schrodinger/9782020133197) (Erwin Schrodinger book)
+
+<hr>
+
 ## Conferences
 
 ### -->General stuff :
@@ -120,38 +152,6 @@
 - [Attention is all you need](https://arxiv.org/pdf/1706.03762.pdf) (Transformers)
 - [An image is worth 16x16 word](https://arxiv.org/pdf/2010.11929.pdf) (Transformers for image recognition)
 - [MLP Mixer](https://arxiv.org/pdf/2105.01601v1.pdf) (MLP architecture for vision)
-
-<hr>
-
-## Books
-
-### -->General stuff :
-
-- [The Origin of Species](https://www.amazon.fr/Charles-Darwins-Natural-Selection-Species/dp/0521348072) (famous Darwin's evolution book)
-- [Clean Code](https://www.amazon.fr/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) (Robert C. Martin's book about clean code)
-- [Anagrammes renversantes](https://www.placedeslibraires.fr/livre/9782081272217-anagrammes-renversantes-ou-le-sens-cache-du-monde-etienne-klein-jacques-perry-salkow/) (french book written by a physicist and a jazzman)
-- [Birth of a Theorem](https://www.amazon.fr/Birth-Theorem-Mathematical-C%C3%A9dric-Villani/dp/0099581973) (Cédric Villani explaining how research in maths feels)
-- [The art of doing science](https://www.amazon.fr/Art-Doing-Science-Engineering-Learning-ebook/dp/B088TMLQDC) (Richard Hamming book about research)
-- [La recherche](https://www.larecherche.fr/) (French magazine about current research in many fields)
-- [Essential Cell Biology](https://wwnorton.com/books/9780393680362) (Very complete book about cell biology)
-
-### -->Artificial Intelligence :
-
-- [The most beautiful story of intelligence](https://www.amazon.fr/Plus-Belle-Histoire-lintelligence/dp/2221221109) (book about intelligence in general from a historical perspective)
-- [When the machin learns](https://www.amazon.fr/Quand-machine-apprend-artificiels-lapprentissage/dp/2738149316) (french machine learning book)
-- [Deep Learning, A practicioners approach](https://www.amazon.com/Deep-Learning-Practitioners-Josh-Patterson/dp/1491914254) (very complete book about deep learning)
-- [Neural network from scratch](https://nnfs.io/) (how to build a neural network from scratch)
-- [Artificial Intelligence 4th edition](http://aima.cs.berkeley.edu/) (one of the best AI book)
-- [Deep learning book](https://www.deeplearningbook.org/) (deep learning book, Ian Goodfellow and Yoshua Bengio and Aaron Courville)
-
-### -->Physics :
-
-- [Time never rings twice](https://editions.flammarion.com/le-facteur-temps-ne-sonne-jamais-deux-fois/9782081391567) (Etienne Klein about time in physics)
-- [Chronos](https://editions.flammarion.com/les-tactiques-de-chronos/9782080206244) (Etienne Klein about time in physics)
-- [Universe origins](https://editions.flammarion.com/discours-sur-l-origine-de-l-univers/9782081228795) (Etienne Klein about universe's origin)
-- [Black holes and time distorsion](https://editions.flammarion.com/trous-noirs-et-distorsions-du-temps/9782081224964) (Kip S. Thorne's book about black holes)
-- [The nature of physics](https://www.seuil.com/ouvrage/la-nature-de-la-physique-richard-feynman/9782020056588) (Feynman messenger lectures book)
-- [Quantum physics and world representation](https://www.seuil.com/ouvrage/physique-quantique-et-representation-du-monde-erwin-schrodinger/9782020133197) (Erwin Schrodinger book)
 
 <hr>
 
