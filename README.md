@@ -189,15 +189,23 @@
 
 ## Solo videos
 
+### -->General stuff :
+
 - [3D VR data visualization](https://www.youtube.com/watch?v=bkPAJ8aP89U&ab_channel=GregBahm) (Video about reddit/place and its data)
 - [WIRED 5 levels](https://www.youtube.com/playlist?list=PLibNZv5Zd0dyCoQ6f4pdXUFnpAIlKgm3N) (An expert explains a complex subject in five levels of complexity)
-- [Hyperbolica](https://www.youtube.com/watch?v=EMKLeS-Uq_8&ab_channel=CodeParade) (video about non-euclidean game)
-- [Language theory and compilation](https://www.youtube.com/watch?v=WbUpN4fHs_k&list=PLu008__K5BwEMnt6cyxTeYC7vMKmQ2fzo&index=1&ab_channel=AkimDemaille) (EPITA lecture playlist)
 - [Blockchain Idriss ABERKANE](https://www.youtube.com/watch?v=QY4gWjirYR4&ab_channel=Hasheur) (interview about the blockchain, economist pov)
-- [How to become a AI scientist](https://www.youtube.com/watch?v=-WEA2WO-t5s&ab_channel=Science-DrDufourOlivier) (some tips on what to learn)
-- [Quantum computers intro](https://www.youtube.com/watch?v=jHoEjvuPoB8&ab_channel=QuantaMagazineQuantaMagazine) (small video about quantum computers)
 - [The longest running evolution](https://www.youtube.com/watch?v=w4sLAQvEH-M&ab_channel=VeritasiumVeritasiumValid%C3%A9) (documentary about bacteria evolution)
 - [Melodysheep](https://www.youtube.com/watch?v=uD4izuDMUQA&ab_channel=melodysheep) (video about the future, big crunch/rip/freeze theory...)
+- 
+### -->Computer science :
+
+- [Language theory and compilation](https://www.youtube.com/watch?v=WbUpN4fHs_k&list=PLu008__K5BwEMnt6cyxTeYC7vMKmQ2fzo&index=1&ab_channel=AkimDemaille) (EPITA lecture playlist)
+- [Hyperbolica](https://www.youtube.com/watch?v=EMKLeS-Uq_8&ab_channel=CodeParade) (video about non-euclidean game)
+- [Quantum computers intro](https://www.youtube.com/watch?v=jHoEjvuPoB8&ab_channel=QuantaMagazineQuantaMagazine) (small video about quantum computers)
+- [How to become a AI scientist](https://www.youtube.com/watch?v=-WEA2WO-t5s&ab_channel=Science-DrDufourOlivier) (some tips on what to learn)
+
+### -->Mathematics :
+
 - [Futurama sciences](https://www.youtube.com/watch?v=dRS4eatZM9M&t=9s&ab_channel=ElJj) (video about the physics, maths, computer science easter eggs in futurama)
 - [Collatz conjecture 3x+1](https://www.youtube.com/watch?v=094y1Z2wpJg&ab_channel=Veritasium) (video about the collatz conjecture)
 
