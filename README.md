@@ -70,6 +70,7 @@
 - [Etienne Klein science philosophy lecture](https://www.youtube.com/watch?v=NA2XOTSTs8w&ab_channel=CentraleSup%C3%A9lec) (french conference about science philosophy)
 - [I let algorithms randomize my life](https://www.youtube.com/watch?v=eKkI6-HeWXo&ab_channel=TED) (TED talks about randomizing your life with algorithms)
 - [Apprendre les talents des cerveaux](https://www.youtube.com/watch?v=DAIhjeyET4c&ab_channel=UniversitedePoitiers) (Stanislas Dehaene about learning)
+- [La bosse des Maths](https://www.youtube.com/watch?v=0yCWPAelZBo&ab_channel=Espacedessciences) (Stanislas Dehaene about maths and neurosciences)
 
 ### -->Artificial Intelligence :
 
