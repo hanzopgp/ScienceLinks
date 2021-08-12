@@ -144,6 +144,7 @@
 - [WIRED 5 levels](https://www.youtube.com/playlist?list=PLibNZv5Zd0dyCoQ6f4pdXUFnpAIlKgm3N) (An expert explains a complex subject in five levels of complexity)
 - [Blockchain Idriss ABERKANE](https://www.youtube.com/watch?v=QY4gWjirYR4&ab_channel=Hasheur) (interview about the blockchain, economist pov)
 - [Melodysheep](https://www.youtube.com/watch?v=uD4izuDMUQA&ab_channel=melodysheep) (video about the future, big crunch/rip/freeze theory...)
+- [Explication IA TV5Monde](https://www.youtube.com/watch?v=0p633XxvRdo&t=3s&ab_channel=TV5MONDEInfo) (french interview of Stéphane Mallat explaining AI)
 
 ### -->Computer science :
 
