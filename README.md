@@ -146,12 +146,16 @@
 - [Melodysheep](https://www.youtube.com/watch?v=uD4izuDMUQA&ab_channel=melodysheep) (video about the future, big crunch/rip/freeze theory...)
 - [Explication IA TV5Monde](https://www.youtube.com/watch?v=0p633XxvRdo&t=3s&ab_channel=TV5MONDEInfo) (french interview of Stéphane Mallat explaining AI)
 
+### -->Artificial Intelligence :
+
+- [Tesla AI Day 1](https://www.youtube.com/watch?v=j0z4FweCy4M&ab_channel=Tesla) (conference about Tesla Bot, AI etc...)
+- [How to become a AI scientist](https://www.youtube.com/watch?v=-WEA2WO-t5s&ab_channel=Science-DrDufourOlivier) (some tips on what to learn)
+
 ### -->Computer science :
 
 - [Language theory and compilation](https://www.youtube.com/watch?v=WbUpN4fHs_k&list=PLu008__K5BwEMnt6cyxTeYC7vMKmQ2fzo&index=1&ab_channel=AkimDemaille) (EPITA lecture playlist)
 - [Hyperbolica](https://www.youtube.com/watch?v=EMKLeS-Uq_8&ab_channel=CodeParade) (video about non-euclidean game)
 - [Quantum computers intro](https://www.youtube.com/watch?v=jHoEjvuPoB8&ab_channel=QuantaMagazineQuantaMagazine) (small video about quantum computers)
-- [How to become a AI scientist](https://www.youtube.com/watch?v=-WEA2WO-t5s&ab_channel=Science-DrDufourOlivier) (some tips on what to learn)
 - [Computer science's map](https://www.youtube.com/watch?v=SzJ46YA_RaA&ab_channel=DoS-DomainofScience) (the different chapters of computer science)
 
 ### -->Mathematics :
