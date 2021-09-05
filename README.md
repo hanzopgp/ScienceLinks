@@ -157,6 +157,7 @@
 - [Hyperbolica](https://www.youtube.com/watch?v=EMKLeS-Uq_8&ab_channel=CodeParade) (video about non-euclidean game)
 - [Quantum computers intro](https://www.youtube.com/watch?v=jHoEjvuPoB8&ab_channel=QuantaMagazineQuantaMagazine) (small video about quantum computers)
 - [Computer science's map](https://www.youtube.com/watch?v=SzJ46YA_RaA&ab_channel=DoS-DomainofScience) (the different chapters of computer science)
+- [The universe is hostile to computers](https://www.youtube.com/watch?v=AaZ_RSt0KP8&t=651s&ab_channel=Veritasium) (cool video about bit flip bugs)
 
 ### -->Mathematics :
 
