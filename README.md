@@ -159,6 +159,7 @@
 - [Quantum computers intro](https://www.youtube.com/watch?v=jHoEjvuPoB8&ab_channel=QuantaMagazineQuantaMagazine) (small video about quantum computers)
 - [Computer science's map](https://www.youtube.com/watch?v=SzJ46YA_RaA&ab_channel=DoS-DomainofScience) (the different chapters of computer science)
 - [The universe is hostile to computers](https://www.youtube.com/watch?v=AaZ_RSt0KP8&t=651s&ab_channel=Veritasium) (cool video about bit flip bugs)
+- [Conways game of life AI](https://www.youtube.com/watch?v=viA-HIW-2C4&ab_channel=NeatAI) (AI implementation in game of life)
 
 ### -->Mathematics :
 
