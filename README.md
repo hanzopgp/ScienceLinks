@@ -166,6 +166,7 @@
 - [Futurama sciences](https://www.youtube.com/watch?v=dRS4eatZM9M&t=9s&ab_channel=ElJj) (video about the physics, maths, computer science easter eggs in futurama)
 - [Collatz conjecture 3x+1](https://www.youtube.com/watch?v=094y1Z2wpJg&ab_channel=Veritasium) (video about the collatz conjecture)
 - [Mathematics' map](https://www.youtube.com/watch?v=OmJ-4B-mS-Y&ab_channel=DoS-DomainofScience) (the different chapters of mathematics)
+- [Lock pattern](https://www.youtube.com/watch?v=PKjbBQ0PBCQ&feature=youtu.be&ab_channel=Dr.Zye) (How to solve problems that have never been solved before)
 
 ### -->Biology :
 
