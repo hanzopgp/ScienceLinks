@@ -230,3 +230,4 @@
 - [Stanislas Dehaene Collège de France](https://www.college-de-france.fr/site/stanislas-dehaene/index.htm) (Free cognitive psychology course)
 - [Yann LeCun Collège de France](https://www.college-de-france.fr/site/yann-lecun/course-2016-02-12-14h30.htm) (Deep learning course)
 - [Deepmind RL lecture](https://www.youtube.com/watch?v=TCCjZe0y4Qc&ab_channel=DeepMind) (RL course)
+- [Stanford AI lecture](https://www.youtube.com/watch?v=J8Eh7RqggsU&ab_channel=stanfordonline) (AI course)
