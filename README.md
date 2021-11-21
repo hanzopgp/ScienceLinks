@@ -122,6 +122,7 @@
 - [Lazy Programmer](https://www.youtube.com/c/LazyProgrammerX/videos) (videos about AI, LSTM...)
 - [What's AI](https://www.youtube.com/channel/UCUzGQrN-lyyc0BWTYoJM_Sg) (papers, articles, news about AI)
 - [Henry AI Labs](https://www.youtube.com/channel/UCHB9VepY6kYvZjj0Bgxnpbw) (channel about AI)
+- [Normalized Nerd](https://www.youtube.com/channel/UC7Fs-Fdpe0I8GYg3lboEuXw) (channel about AI)
 
 ### -->Mathematics :
 
