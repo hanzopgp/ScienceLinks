@@ -81,6 +81,7 @@
 - [Deepmind AlphaZero](youtube.com/watch?v=Wujy7OzvdJk&ab_channel=TheArtificialIntelligenceChannel) (mastering Games Without Human Knowledge)
 - [LSTM is dead, Long Live Transformers](https://www.youtube.com/watch?v=S27pHKBEp30&ab_channel=SeattleAppliedDeepLearning) (lecture about RNN, LSTM, Transformers)
 - [Mystères mathématiques des DNN](https://www.youtube.com/watch?v=UJwBx7eqgBw&ab_channel=Maisondesmath%C3%A9matiquesetdel%27informatiqueLyon) (Stéphane Mallat conference about Maths and AI)
+- [Deep learning state of the art 2020](https://www.youtube.com/watch?v=0VH1Lim8gL8&ab_channel=LexFridman) (Lex Fridman about DL SOTA)
 
 ### -->Physics :
 
