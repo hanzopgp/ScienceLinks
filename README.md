@@ -216,6 +216,7 @@
 - [Attention is all you need](https://arxiv.org/pdf/1706.03762.pdf) (Transformers)
 - [An image is worth 16x16 word](https://arxiv.org/pdf/2010.11929.pdf) (Transformers for image recognition)
 - [MLP Mixer](https://arxiv.org/pdf/2105.01601v1.pdf) (MLP architecture for vision)
+- [AlphaCode](https://storage.googleapis.com/deepmind-media/AlphaCode/competition_level_code_generation_with_alphacode.pdf) (AlphaCode competitive programming AI)
 
 <hr>
 
