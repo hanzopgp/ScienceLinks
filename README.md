@@ -196,6 +196,7 @@
 - [Different types of NN](https://towardsdatascience.com/types-of-neural-network-and-what-each-one-does-explained-d9b4c0ed63a1) (article about MLP/CNN/RNN...)
 - [Draw your NN](http://alexlenail.me/NN-SVG/index.html) (tool to draw your nn online)
 - [How I became an AI scientist](https://start.lesechos.fr/travailler-mieux/metiers-reconversion/comment-je-suis-devenu-chercheur-en-intelligence-artificielle-1174831) (interesting interview about an engineer who became university lecturer and researcher)
+- [Karpathy's Blog](https://karpathy.github.io/) (Really great blog about machine learning mostly)
 
 <hr>
 
