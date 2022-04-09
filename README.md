@@ -197,6 +197,7 @@
 - [Draw your NN](http://alexlenail.me/NN-SVG/index.html) (tool to draw your nn online)
 - [How I became an AI scientist](https://start.lesechos.fr/travailler-mieux/metiers-reconversion/comment-je-suis-devenu-chercheur-en-intelligence-artificielle-1174831) (interesting interview about an engineer who became university lecturer and researcher)
 - [Karpathy's Blog](https://karpathy.github.io/) (Really great blog about machine learning mostly)
+- [Karpathy's Blod 2](https://karpathy.medium.com/)
 
 <hr>
 
