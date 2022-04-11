@@ -198,6 +198,7 @@
 - [How I became an AI scientist](https://start.lesechos.fr/travailler-mieux/metiers-reconversion/comment-je-suis-devenu-chercheur-en-intelligence-artificielle-1174831) (interesting interview about an engineer who became university lecturer and researcher)
 - [Karpathy's Blog](https://karpathy.github.io/) (Really great blog about machine learning mostly)
 - [Karpathy's Blod 2](https://karpathy.medium.com/)
+- [Recipe for training NN](https://karpathy.github.io/2019/04/25/recipe/) (Very usefull and simple recipe for training neural networks)
 
 <hr>
 
