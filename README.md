@@ -46,6 +46,7 @@
 - [Artificial Intelligence 4th edition](http://aima.cs.berkeley.edu/) (one of the best AI book)
 - [Deep learning book](https://www.deeplearningbook.org/) (deep learning book, Ian Goodfellow and Yoshua Bengio and Aaron Courville)
 - [The singularity myth](https://www.seuil.com/ouvrage/le-mythe-de-la-singularite-jean-gabriel-ganascia/9782021309997) (AI philosophy and ethic book written by my AI professor at Sorbonne Université)
+- [Reinforcement Learning, an introduction 2nd edition](http://incompleteideas.net/book/the-book.html) (RL bible 2018 update)
 
 ### -->Physics :
 
