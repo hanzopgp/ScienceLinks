@@ -34,7 +34,6 @@
 - [Anagrammes renversantes](https://www.placedeslibraires.fr/livre/9782081272217-anagrammes-renversantes-ou-le-sens-cache-du-monde-etienne-klein-jacques-perry-salkow/) (french book written by a physicist and a jazzman)
 - [Birth of a Theorem](https://www.amazon.fr/Birth-Theorem-Mathematical-C%C3%A9dric-Villani/dp/0099581973) (Cédric Villani explaining how research in maths feels)
 - [The art of doing science](https://www.amazon.fr/Art-Doing-Science-Engineering-Learning-ebook/dp/B088TMLQDC) (Richard Hamming book about research)
-- [La recherche](https://www.larecherche.fr/) (French magazine about current research in many fields)
 - [Essential Cell Biology](https://wwnorton.com/books/9780393680362) (Very complete book about cell biology)
 
 ### -->Artificial Intelligence :
@@ -231,6 +230,7 @@
 - [Quantum magazine](https://www.youtube.com/channel/UCTpmmkp1E4nmZqWPS-dl5bg) (interesting science videos)
 - [Two minute papers](https://www.youtube.com/user/keeroyz) (channel about new technologies, especialy in AI)
 - [Neura Pod](https://www.youtube.com/c/NeuraPod) (youtube channel about neuralink news)
+- [La recherche](https://www.larecherche.fr/) (French magazine about current research in many fields)
 
 <hr>
 
