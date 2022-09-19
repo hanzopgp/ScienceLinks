@@ -243,3 +243,4 @@
 - [Deepmind RL lecture](https://www.youtube.com/watch?v=TCCjZe0y4Qc&ab_channel=DeepMind) (RL course)
 - [Stanford AI lecture](https://www.youtube.com/watch?v=J8Eh7RqggsU&ab_channel=stanfordonline) (AI course)
 - [Reinforcement learning lecture](https://www.youtube.com/c/OlivierSigaud) (Olivier Sigaud RL)
+- [Machine learning & deep learning lecture](http://www-connex.lip6.fr/~gallinar/gallinari/uploads/Teaching/2020-2021-AMAL-Deep-Learning-Gallinari.pdf) (Patrick Gallinari ML/DL)
