@@ -84,6 +84,7 @@
 - [Mystères mathématiques des DNN](https://www.youtube.com/watch?v=UJwBx7eqgBw&ab_channel=Maisondesmath%C3%A9matiquesetdel%27informatiqueLyon) (Stéphane Mallat conference about Maths and AI)
 - [Deep learning state of the art 2020](https://www.youtube.com/watch?v=0VH1Lim8gL8&ab_channel=LexFridman) (Lex Fridman about DL SOTA)
 - [Deep Reinforcement Learning](https://www.youtube.com/watch?v=zR11FLZ-O9M&ab_channel=LexFridman) (Lex fridman introduction lecture of DRL)
+- [From ML to Autonomous Intelligence](https://www.youtube.com/watch?v=VRzvpV9DZ8Y&ab_channel=UCBerkeleyEECSEvents) (YLC conference about his idea of Autonomous Intelligence)
 
 ### -->Physics :
 
@@ -222,6 +223,7 @@
 - [An image is worth 16x16 word](https://arxiv.org/pdf/2010.11929.pdf) (Transformers for image recognition)
 - [MLP Mixer](https://arxiv.org/pdf/2105.01601v1.pdf) (MLP architecture for vision)
 - [AlphaCode](https://storage.googleapis.com/deepmind-media/AlphaCode/competition_level_code_generation_with_alphacode.pdf) (AlphaCode competitive programming AI)
+- [AlphaTensor](https://www.nature.com/articles/s41586-022-05172-4) (AlphaTensor DRL for matrix multiplication algorithm discovery)
 
 <hr>
 
