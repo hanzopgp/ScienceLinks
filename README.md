@@ -2,6 +2,7 @@
 
 ## Table of contents
 
+0. [BrainJouney](https://github.com/hanzopgp/BrainJourney)(Repository for the neuroscience and cognitive science courses)
 1. [Presentation](#presentation)
 2. [Books](#books)
 3. [Conferences](#conferences)
