@@ -156,9 +156,10 @@
 
 ### -->Artificial Intelligence :
 
-- [Tesla AI Day 1](https://www.youtube.com/watch?v=j0z4FweCy4M&ab_channel=Tesla) (conference about Tesla Bot, AI etc...)
+- [Tesla AI Day 2021](https://www.youtube.com/watch?v=j0z4FweCy4M&ab_channel=Tesla) (conference about Tesla Bot, AI etc...)
 - [How to become a AI scientist](https://www.youtube.com/watch?v=-WEA2WO-t5s&ab_channel=Science-DrDufourOlivier) (some tips on what to learn)
 - [DeepMind AlphaCode](https://www.youtube.com/watch?v=t3Yh56efKGI&ab_channel=EdanMeyer) (explanation about the AlphaCode model)
+- [Tesla AI Day 2022](https://www.youtube.com/watch?v=ODSJsviD_SU&ab_channel=Tesla) (conference about Tesla Bot, AI etc...)
 
 ### -->Computer science :
 
