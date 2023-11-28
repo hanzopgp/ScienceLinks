@@ -160,6 +160,7 @@
 - [How to become a AI scientist](https://www.youtube.com/watch?v=-WEA2WO-t5s&ab_channel=Science-DrDufourOlivier) (some tips on what to learn)
 - [DeepMind AlphaCode](https://www.youtube.com/watch?v=t3Yh56efKGI&ab_channel=EdanMeyer) (explanation about the AlphaCode model)
 - [Tesla AI Day 2022](https://www.youtube.com/watch?v=ODSJsviD_SU&ab_channel=Tesla) (conference about Tesla Bot, AI etc...)
+- [Intro to Large Language models](https://www.youtube.com/watch?v=zjkBMFhNj_g) (very good introduction to LLMs behind chatGPT, Bard...)
 
 ### -->Computer science :
 
