@@ -116,12 +116,13 @@
 - [Computerphile](https://www.youtube.com/user/Computerphile) (tons of videos about very various topics)
 - [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) (channel about a lot of stuff in computer science, some playlist about AI and ML)
 - [Javidx9](https://www.youtube.com/channel/UC-yuWVUplUJZvieEligKBkA) (interesting stuff like 3D rendering in terminal)
+- [Emergent Garden](https://www.youtube.com/@EmergentGarden) (cool CS topics)
 
 ### -->Artificial Intelligence :
 
 - [Sentdex](https://www.youtube.com/c/sentdex/videos) (explaining how to build neural networks and how to use them)
 - [CodeBullet](https://www.youtube.com/channel/UC0e3QhIYukixgh5VVpKHH9Q) (funny guy using ai in games)
-- [Trackmania AIs](https://www.youtube.com/channel/UCh1zLfuN6F_X4eoNKCsyICA) (different machine learning algorithms in trackmania)
+- [Trackmania AIs](https://www.youtube.com/channel/UCh1zLfuN6F_X4eoNKCsyICA) (different deep learning algorithms in trackmania)
 - [Defend Intelligence](https://www.youtube.com/c/DefendIntelligence-tech/videos) (french youtube channel about AI/Data science)
 - [Thibault Neveu](https://www.youtube.com/channel/UCVso5UVvQeGAuwbksmA95iA) (french channel about neural networks)
 - [Lazy Programmer](https://www.youtube.com/c/LazyProgrammerX/videos) (videos about AI, LSTM...)
