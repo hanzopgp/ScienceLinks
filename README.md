@@ -221,17 +221,6 @@
 
 <hr>
 
-## Papers
-
-- [Multi-Label Classification](https://www.researchgate.net/publication/273859036_Multi-Label_Classification_An_Overview) (Machine learning, classifying...)
-- [Attention is all you need](https://arxiv.org/pdf/1706.03762.pdf) (Transformers)
-- [An image is worth 16x16 word](https://arxiv.org/pdf/2010.11929.pdf) (Transformers for image recognition)
-- [MLP Mixer](https://arxiv.org/pdf/2105.01601v1.pdf) (MLP architecture for vision)
-- [AlphaCode](https://storage.googleapis.com/deepmind-media/AlphaCode/competition_level_code_generation_with_alphacode.pdf) (AlphaCode competitive programming AI)
-- [AlphaTensor](https://www.nature.com/articles/s41586-022-05172-4) (AlphaTensor DRL for matrix multiplication algorithm discovery)
-
-<hr>
-
 ## Magazines
 
 - [Quantum magazine](https://www.youtube.com/channel/UCTpmmkp1E4nmZqWPS-dl5bg) (interesting science videos)
