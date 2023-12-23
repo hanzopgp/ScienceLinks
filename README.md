@@ -10,9 +10,8 @@
 9. [Solo videos](#solo-videos)
 8. [Websites](#webites)
 6. [Documentaries and interviews](#documentaries-and-interviews)
-7. [Papers](#papers-)
-8. [Magazines](#magazines)
-10. [Courses](#courses)
+7. [Magazines](#magazines)
+8. [Courses](#courses)
 
 <hr>
 
